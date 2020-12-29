@@ -10,10 +10,10 @@
   * [For iOS](#for-ios)
   * [Extensions](#extensions)
 * [Email](#email)
- * [Email providers](#email-providers)
- * [Email encryption](#email-encryption)
- * [Email aliases](#email-aliases)
- * [Email self-hosting solutions](#email-self-hosting-solutions)
+  * [Email providers](#email-providers)
+  * [Email encryption](#email-encryption)
+  * [Email aliases](#email-aliases)
+  * [Email self-hosting solutions](#email-self-hosting-solutions)
 
 ## Search engines
 
