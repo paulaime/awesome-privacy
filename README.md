@@ -1,6 +1,6 @@
 <p align="center"><img src="icon.svg" with="75" height="75" alt="Awesome Privacy Icon"></p>
 
-<p align="center">A curated list of tools and services that repesct your privacy.</p>
+<p align="center">A curated list of tools and services that respect your privacy.</p>
 
 ---
 
