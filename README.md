@@ -9,6 +9,7 @@
   * [For Android](#for-android)
   * [For iOS](#for-ios)
   * [Extensions](#extensions)
+* [Email providers](#email-providers)
 
 ## Search engines
 
@@ -52,3 +53,13 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Cookie Autodelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) – An extension that deletes cookies and other browsing site data as soon as the tab closes.
 * [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker/) – An extension that alters some JS APIs to prevent fingerprinting.
 * [Snowflake](https://snowflake.torproject.org) – An extension that turns your browser into a proxy that connects Tor users in censored regions to the Tor network.
+
+## Email providers
+
+* [ProtonMail](https://protonmail.com) – Secure email service based in Switzerland.
+* [Tutanota](https://tutanota.com) – German email service with a focus on privacy and security.
+* [Mailbox.org](https://mailbox.org) – Secure email and cloud storage based in Germany.
+* [Posteo](https://posteo.de) – Secure and private email service based in Germany.
+* [Disroot](https://disroot.org) – An online services provider based in the Netherlands.
+* [StartMail](https://www.startmail.com) – A private email service developed by the creators of StartPage.
+* [CTemplar](https://ctemplar.com) – An anonymous and encrypted email provider based in Iceland.
