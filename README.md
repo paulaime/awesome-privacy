@@ -11,10 +11,10 @@
   * [For iOS](#for-ios)
   * [Extensions](#extensions)
 * [Email](#email)
-  * [Email providers](#email-providers)
-  * [Email encryption](#email-encryption)
-  * [Email aliases](#email-aliases)
-  * [Email self-hosting solutions](#email-self-hosting-solutions)
+  * [Providers](#providers)
+  * [Encryption](#encryption)
+  * [Aliases](#aliases)
+  * [Self-hosting](#self-hosting)
 
 ## Search engines
 
@@ -63,7 +63,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 ## Email
 
-### Email providers
+### Providers
 
 * [ProtonMail](https://protonmail.com) – Secure email service based in Switzerland.
 * [Tutanota](https://tutanota.com) – German email service with a focus on privacy and security.
@@ -73,8 +73,8 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [StartMail](https://www.startmail.com) – A private email service developed by the creators of StartPage.
 * [CTemplar](https://ctemplar.com) – An anonymous and encrypted email provider based in Iceland.
 
-### Email encryption
+### Encryption
 
-### Email aliases
+### Aliases
 
-### Email self-hosting solutions
+### Self-hosting
