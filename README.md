@@ -6,6 +6,7 @@
 
 * [Search engines](#search-engines)
 * [Web browsers](#web-browsers)
+  * [Cross-platform](#cross-platform)
   * [For Android](#for-android)
   * [For iOS](#for-ios)
   * [Extensions](#extensions)
@@ -23,6 +24,8 @@
 * [Mojeek](https://www.mojeek.com) – An independent search engine which does not track you.
 
 ## Web browsers
+
+### Cross-platform
 
 * [Firefox](https://www.mozilla.org/en-US/firefox/) – An open source web browser that respects your privacy.
 * [Tor Browser](https://www.torproject.org) – A modified version of Firefox ESR with privacy add-ons, encryption, and an advanced proxy.
