@@ -99,7 +99,14 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 * [SimpleLogin](https://simplelogin.io) – A tool to easily create aliases for your email.
 * [AnonAddy](https://anonaddy.com) – A tool to create aliases that forward to their email address.
+* [Firefox Relay](https://relay.firefox.com) – Create aliases, and randomly generated email addresses that forward to your real inbox.
 
 ### Temporary email
+
+* [Maildrop](https://maildrop.cc) – Free and open source disposable e-mail addresses service.
+* [10 Minute Mail](https://10minutemail.com) – Free and anonymous temporary email.
+* [erine.email](https://erine.email) – Unlimited disposable email addresses to avoid spam.
+* [Mailsac](https://mailsac.com) – Open source disposable email hosting.
+* [inboxkitten](https://inboxkitten.com) – Open source disposable email.
 
 ### Self-hosting
