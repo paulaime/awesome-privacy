@@ -12,6 +12,7 @@
   * [Extensions](#extensions)
 * [Email](#email)
   * [Providers](#providers)
+  * [Clients](#clients)
   * [Encryption](#encryption)
   * [Aliases](#aliases)
   * [Self-hosting](#self-hosting)
@@ -73,7 +74,25 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [StartMail](https://www.startmail.com) – A private email service developed by the creators of StartPage.
 * [CTemplar](https://ctemplar.com) – An anonymous and encrypted email provider based in Iceland.
 
+### Clients
+
+* [Thunderbird](https://www.thunderbird.net) – Cross-platform, free and open source email application made by Mozilla.
+* [Canary Mail](https://canarymail.io) – A secure email client for macOS, iOS and Android (paid and closed source).
+* [Geary](https://wiki.gnome.org/Apps/Geary) – An email application built around conversations, for Linux.
+* [Evolution](https://wiki.gnome.org/Apps/Evolution) – A Linux application that provides mail, calendar and address book.
+* [Claws Mail](https://www.claws-mail.org) – An open source email client (and news reader) for Windows and Linux.
+* [KMail](https://kontact.kde.org/components/kmail.html) – The email component of Kontact, the integrated personal information manager from KDE.
+* [K-9 Mail](https://k9mail.app) – A free and open source email client for Android.
+* [FairEmail](https://email.faircode.eu) – An open source and privacy oriented email app for Android.
+* [p≡p](https://www.pep.security) – Freen and open source email client for Android and iOS.
+
 ### Encryption
+
+* [GnuPG](https://www.gnupg.org) – Encrypt and sign your data and communications.
+* [GPG Suite](https://gpgtools.org) – An open source GnuPG front-end for macOS.
+* [GPG4Win](https://www.gpg4win.org) – An open source GnuPG front-end for Windows.
+* [Enigmail](https://www.enigmail.net) – Encrypt/decrypt and digitally sign your emails in Thunderbird, Postbox and Interlink.
+* [Mailvelope](https://www.mailvelope.com) – A browser extension to securely encrypt your emails with PGP using webmail providers.
 
 ### Aliases
 
