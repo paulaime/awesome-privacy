@@ -29,6 +29,7 @@
 * [Startpage](https://www.startpage.com) – A search engine that provides Google search results with complete privacy protection.
 * [Searx](https://searx.me) – An open-source, self-hostable, metasearch engine.
 * [Mojeek](https://www.mojeek.com) – An independent search engine which does not track you.
+* [YaCy](https://yacy.net) – A free, open source and decentralized search engine.
 
 ## Web browsers
 
