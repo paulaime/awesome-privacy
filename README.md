@@ -133,7 +133,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Manjaro](https://manjaro.org) – An accessible, friendly, open-source operating system.
 * [openSUSE](https://www.opensuse.org) – A community project to develop and maintain a general purpose Linux distribution.
 * [Solus](https://getsol.us) – A Linux distribution built from scratch, exclusively for desktop systems.
-* [Pop!₋OS](https://pop.system76.com) – A distribution developed by System76, based on Ubuntu and using the GNOME desktop environment.
+* [Pop!₋OS](https://pop.system76.com) – A distribution developed by System76, based on Ubuntu and GNOME.
 * [KDE Neon](https://neon.kde.org) – The latest and greatest of KDE community software packaged on a rock-solid base.
 * [EndeavourOS](https://endeavouros.com) – An easy way to install Arch Linux (successor of Antergos).
 
