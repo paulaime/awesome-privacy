@@ -15,6 +15,7 @@
   * [Clients](#clients)
   * [Encryption](#encryption)
   * [Aliases](#aliases)
+  * [Temporary email](#temporary-email)
   * [Self-hosting](#self-hosting)
 
 ## Search engines
@@ -95,5 +96,10 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Mailvelope](https://www.mailvelope.com) – A browser extension to securely encrypt your emails with PGP using webmail providers.
 
 ### Aliases
+
+* [SimpleLogin](https://simplelogin.io) – A tool to easily create aliases for your email.
+* [AnonAddy](https://anonaddy.com) – A tool to create aliases that forward to their email address.
+
+### Temporary email
 
 ### Self-hosting
