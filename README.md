@@ -86,6 +86,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [K-9 Mail](https://k9mail.app) – A free and open source email client for Android.
 * [FairEmail](https://email.faircode.eu) – An open source and privacy oriented email app for Android.
 * [p≡p](https://www.pep.security) – Freen and open source email client for Android and iOS.
+* [Kube](https://kube-project.com) – A modern communication and collaboration client for Linux and macOS.
 
 ### Encryption
 
@@ -110,3 +111,9 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [inboxkitten](https://inboxkitten.com) – Open source disposable email.
 
 ### Self-hosting
+
+* [Mail-in-a-Box](https://mailinabox.email) – An easy-to-deploy mail server in a box.
+* [mailcow](https://mailcow.email) – An advanced mail server perfect for those with a bit more Linux experience.
+* [Roundcube](https://roundcube.net) – A web-based IMAP email client.
+* [Mailpile](https://www.mailpile.is) – A fast web-mail client with user-friendly encryption and privacy features.
+* [RainLoop](https://www.rainloop.net) – A simple, modern & fast web-based email client.
