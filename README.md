@@ -17,6 +17,11 @@
   * [Aliases](#aliases)
   * [Temporary email](#temporary-email)
   * [Self-hosting](#self-hosting)
+* [Operating systems](#operating-systems)
+  * [User-friendly OS](#user-friendly-os)
+  * [Advanced OS](#advanced-os)
+  * [Privacy oriented OS](#privacy-oriented-os)
+  * [Mobile OS](#mobile-OS)
 
 ## Search engines
 
@@ -117,3 +122,46 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Roundcube](https://roundcube.net) – A web-based IMAP email client.
 * [Mailpile](https://www.mailpile.is) – A fast web-mail client with user-friendly encryption and privacy features.
 * [RainLoop](https://www.rainloop.net) – A simple, modern & fast web-based email client.
+
+## Operating systems
+
+### User-friendly OS
+
+* [Ubuntu](https://ubuntu.com) – A reliable and user-friendly Linux distribution developed by Canonical.
+* [Fedora Workstation](https://getfedora.org/en/workstation) – A reliable, user-friendly, and powerful operating system.
+* [Linux Mint](https://linuxmint.com) – A modern, elegant and easy to use Linux distribution based on Ubuntu.
+* [Manjaro](https://manjaro.org) – An accessible, friendly, open-source operating system.
+* [openSUSE](https://www.opensuse.org) – A community project to develop and maintain a general purpose Linux distribution.
+* [Solus](https://getsol.us) – A Linux distribution built from scratch, exclusively for desktop systems.
+* [Pop!₋OS](https://pop.system76.com) – A distribution developed by System76, based on Ubuntu and using the GNOME desktop environment.
+* [KDE Neon](https://neon.kde.org) – The latest and greatest of KDE community software packaged on a rock-solid base.
+* [EndeavourOS](https://endeavouros.com) – An easy way to install Arch Linux (successor of Antergos).
+
+### Advanced OS
+
+* [Arch Linux](https://archlinux.org) – A lightweight and flexible Linux® distribution that tries to keep it simple.
+* [Debian](https://www.debian.org) – A good Linux distribution known for its stability.
+* [NixOS](https://nixos.org) – A Linux distribution that aims to improve the state of the art in system configuration management.
+* [Void Linux](https://voidlinux.org) – A general purpose operating system, based on the monolithic Linux kernel.
+* [GhostBSD](https://www.ghostbsd.org) – A simple, elegant desktop BSD operating system.
+
+
+### Privacy oriented OS
+
+* [Tails](https://tails.boum.org) – A Debian based live CD/USB with the goal of providing complete Internet anonymity.
+* [Alpine Linux](https://www.alpinelinux.org) – A security-oriented, lightweight Linux distribution based on musl libc and busybox.
+* [Qubes OS](https://www.qubes-os.org) – A security-oriented operating system that uses "security by compartmentalization".
+* [Whonix](https://www.whonix.org) – A desktop operating system designed for advanced security and privacy.
+* [Parrot OS](https://www.parrotsec.org) – A Linux distribution based on Debian and designed with security and privacy in mind.
+
+### Mobile OS
+
+* [GrapheneOS](https://grapheneos.org) – A privacy-focused mobile operating system built on top of AOSP.
+* [CalyxOS](https://calyxos.org) – A secure and private mobile OS for Pixel phones.
+* [LineageOS](https://www.lineageos.org) – A custom ROM based on AOSP with official support for a wide variety of devices.
+* [Ubuntu Touch](https://ubuntu-touch.io) – A free and open-source operating system for smartphones and tablets based on Ubuntu.
+* [Plasma Mobile](https://www.plasma-mobile.org) – A privacy-respecting, open source and secure phone ecosystem based on KDE Plasma.
+* [postmarketOS](https://postmarketos.org) – A Linux distribution for mobile phones.
+* [/e/](https://e.foundation) – A fork of LineageOS that aims to be completely free of everything Google.
+* [PureOS](https://pureos.net) – A user friendly, secure and freedom respecting OS for the Librem 5 phone.
+* [microG](https://microg.org) – Not an OS, but a re-implementation of Google’s proprietary Android apps and libraries.
