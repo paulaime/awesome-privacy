@@ -22,6 +22,12 @@
   * [Advanced OS](#advanced-os)
   * [Privacy oriented OS](#privacy-oriented-os)
   * [Mobile OS](#mobile-OS)
+* [Social networks](#social-networks)
+  * [Facebook alternatives](#facebook)
+  * [Twitter](#twitter)
+  * [YouTube](#youtube)
+  * [Instagram](#instagram)
+  * [Reddit](#reddit)
 
 ## Search engines
 
@@ -166,3 +172,54 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [/e/](https://e.foundation) – A fork of LineageOS that aims to be completely free of everything Google.
 * [PureOS](https://pureos.net) – A user friendly, secure and freedom respecting OS for the Librem 5 phone.
 * [microG](https://microg.org) – Not an OS, but a re-implementation of Google’s proprietary Android apps and libraries.
+
+## Social networks
+
+### Facebook
+
+* [diaspora*](https://diasporafoundation.org)
+* [Friendica](https://friendi.ca)
+* [Movim](https://movim.eu)
+
+* [Frost](https://github.com/AllanWang/Frost-for-Facebook)
+
+### Twitter
+
+* [Mastodon](https://joinmastodon.org)
+* [Plemora](https://pleroma.social)
+
+* [Nitter](https://nitter.net)
+* [Yotter](https://github.com/ytorg/yotter)
+* [Twidere X](https://github.com/TwidereProject/Twidere-Android/issues/1388)
+
+### YouTube
+
+* [PeerTube](https://joinpeertube.org)
+* [LBRY](https://lbry.com)
+* [Odysee](https://odysee.com)
+* [DTube](https://d.tube)
+
+* [Invidious](https://github.com/iv-org/invidious)
+* [FreeTube](https://freetubeapp.io)
+* [NewPipe](https://newpipe.net)
+* [YouTube Vanced](https://vancedapp.com)
+* [SkyTube](https://skytube-app.com)
+
+### Instagram
+
+* [PixelFed](https://pixelfed.org)
+
+* [Barinsta](https://barinsta.austinhuang.me)
+* [Bibliogram](https://bibliogram.art)
+
+### Reddit
+
+* [Lemmy](https://lemmy.ml)
+* [Ruqqus](https://ruqqus.com)
+* [SaidIt](https://saidit.net)
+* [Aether](https://getaether.net)
+* [Phuks](https://phuks.co)
+
+* [Slide](https://github.com/ccrama/Slide)
+* [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit)
+* [RedReader](https://github.com/QuantumBadger/RedReader)
