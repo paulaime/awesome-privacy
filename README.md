@@ -191,55 +191,55 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 — Alternatives
 
-* [Mastodon](https://joinmastodon.org)
-* [Plemora](https://pleroma.social)
+* [Mastodon](https://joinmastodon.org) – An open source decentralized social network.
+* [Pleroma](https://pleroma.social) – A free, federated social networking server built on open protocols.
 
 — Clients
 
-* [Nitter](https://nitter.net)
-* [Yotter](https://github.com/ytorg/yotter)
-* [Twidere X](https://github.com/TwidereProject/Twidere-Android/issues/1388)
+* [Nitter](https://nitter.net) – A free and open source alternative Twitter front-end focused on privacy.
+* [Yotter](https://github.com/ytorg/yotter) – A privacy-focused Twitter and YouTube front-end.
+* [Twidere X](https://github.com/TwidereProject/Twidere-Android/issues/1388) – An open source, fully featured Twitter/Mastodon mobile app.
 
 ### YouTube
 
 — Alternatives
 
-* [PeerTube](https://joinpeertube.org)
-* [LBRY](https://lbry.com)
-* [Odysee](https://odysee.com)
-* [DTube](https://d.tube)
+* [PeerTube](https://joinpeertube.org) – A free and decentralized alternative to video platforms.
+* [LBRY](https://lbry.com) – A free, open, and community-run alternative to big tech.
+* [Odysee](https://odysee.com) – A free and decentralized platform running on the LBRY protocol.
+* [DTube](https://d.tube) – A full-featured and decentralized video sharing website. 
 
 — Clients
 
-* [Invidious](https://github.com/iv-org/invidious)
-* [FreeTube](https://freetubeapp.io)
-* [NewPipe](https://newpipe.net)
-* [YouTube Vanced](https://vancedapp.com)
-* [SkyTube](https://skytube-app.com)
+* [Invidious](https://github.com/iv-org/invidious) – A privacy-focused alternative front-end to YouTube.
+* [FreeTube](https://freetubeapp.io) – A private YouTube client for Windows, macOS, and Linux.
+* [NewPipe](https://newpipe.net) – A lightweight and privacy friendly YouYube app for Android.
+* [YouTube Vanced](https://vancedapp.com) – Stock Android YouTube app with many improvments.
+* [SkyTube](https://skytube-app.com) – An open-source YouTube app for Android.
 
 ### Instagram
 
 — Alternatives
 
-* [PixelFed](https://pixelfed.org)
+* [PixelFed](https://pixelfed.org) – A free and ethical photo sharing platform.
 
 — Clients
 
-* [Barinsta](https://barinsta.austinhuang.me)
-* [Bibliogram](https://bibliogram.art)
+* [Barinsta](https://barinsta.austinhuang.me) – An open source, and privacy-friendly alternative Instagram client for Android.
+* [Bibliogram](https://bibliogram.art) – A fast, private and ad-free Instagram front-end.
 
 ### Reddit
 
 — Alternatives
 
-* [Lemmy](https://lemmy.ml)
-* [Ruqqus](https://ruqqus.com)
-* [SaidIt](https://saidit.net)
-* [Aether](https://getaether.net)
-* [Phuks](https://phuks.co)
+* [Lemmy](https://lemmy.ml) – A federated link aggregator and Reddit alternative.
+* [Ruqqus](https://ruqqus.com) – An open source platform for online communities.
+* [SaidIt](https://saidit.net) – An open source Reddit clone.
+* [Aether](https://getaether.net) – Peer-to-peer ephemeral public communities.
+* [Phuks](https://phuks.co) – A friendly link aggregating website.
 
 — Clients
 
-* [Slide](https://github.com/ccrama/Slide)
-* [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit)
-* [RedReader](https://github.com/QuantumBadger/RedReader)
+* [Slide](https://github.com/ccrama/Slide) – An open sourced, ad free Reddit browser for iOS and Android.
+* [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit) – A beautiful, feature-rich Reddit client for Android.
+* [RedReader](https://github.com/QuantumBadger/RedReader) – An unofficial open source Reddit client for Android.
