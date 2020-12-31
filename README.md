@@ -177,25 +177,40 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 ### Facebook
 
+— Alternatives
+
 * [diaspora*](https://diasporafoundation.org) – A free, open source and decentralized social network.
 * [Friendica](https://friendi.ca) – A decentralized social network with no central authority or ownership.
 * [Movim](https://movim.eu) – A decentralized social and chat platform that act as a web frontend for the XMPP protocol.
+
+— Clients
+
 * [Frost](https://github.com/AllanWang/Frost-for-Facebook) – An extensive and functional third party app for Facebook.
 
 ### Twitter
 
+— Alternatives
+
 * [Mastodon](https://joinmastodon.org)
 * [Plemora](https://pleroma.social)
+
+— Clients
+
 * [Nitter](https://nitter.net)
 * [Yotter](https://github.com/ytorg/yotter)
 * [Twidere X](https://github.com/TwidereProject/Twidere-Android/issues/1388)
 
 ### YouTube
 
+— Alternatives
+
 * [PeerTube](https://joinpeertube.org)
 * [LBRY](https://lbry.com)
 * [Odysee](https://odysee.com)
 * [DTube](https://d.tube)
+
+— Clients
+
 * [Invidious](https://github.com/iv-org/invidious)
 * [FreeTube](https://freetubeapp.io)
 * [NewPipe](https://newpipe.net)
@@ -204,17 +219,27 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 ### Instagram
 
+— Alternatives
+
 * [PixelFed](https://pixelfed.org)
+
+— Clients
+
 * [Barinsta](https://barinsta.austinhuang.me)
 * [Bibliogram](https://bibliogram.art)
 
 ### Reddit
+
+— Alternatives
 
 * [Lemmy](https://lemmy.ml)
 * [Ruqqus](https://ruqqus.com)
 * [SaidIt](https://saidit.net)
 * [Aether](https://getaether.net)
 * [Phuks](https://phuks.co)
+
+— Clients
+
 * [Slide](https://github.com/ccrama/Slide)
 * [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit)
 * [RedReader](https://github.com/QuantumBadger/RedReader)
