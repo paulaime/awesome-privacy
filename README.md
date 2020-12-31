@@ -23,7 +23,7 @@
   * [Privacy oriented OS](#privacy-oriented-os)
   * [Mobile OS](#mobile-OS)
 * [Social networks](#social-networks)
-  * [Facebook alternatives](#facebook)
+  * [Facebook](#facebook)
   * [Twitter](#twitter)
   * [YouTube](#youtube)
   * [Instagram](#instagram)
@@ -177,17 +177,15 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 ### Facebook
 
-* [diaspora*](https://diasporafoundation.org)
-* [Friendica](https://friendi.ca)
-* [Movim](https://movim.eu)
-
-* [Frost](https://github.com/AllanWang/Frost-for-Facebook)
+* [diaspora*](https://diasporafoundation.org) – A free, open source and decentralized social network.
+* [Friendica](https://friendi.ca) – A decentralized social network with no central authority or ownership.
+* [Movim](https://movim.eu) – A decentralized social and chat platform that act as a web frontend for the XMPP protocol.
+* [Frost](https://github.com/AllanWang/Frost-for-Facebook) – An extensive and functional third party app for Facebook.
 
 ### Twitter
 
 * [Mastodon](https://joinmastodon.org)
 * [Plemora](https://pleroma.social)
-
 * [Nitter](https://nitter.net)
 * [Yotter](https://github.com/ytorg/yotter)
 * [Twidere X](https://github.com/TwidereProject/Twidere-Android/issues/1388)
@@ -198,7 +196,6 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [LBRY](https://lbry.com)
 * [Odysee](https://odysee.com)
 * [DTube](https://d.tube)
-
 * [Invidious](https://github.com/iv-org/invidious)
 * [FreeTube](https://freetubeapp.io)
 * [NewPipe](https://newpipe.net)
@@ -208,7 +205,6 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 ### Instagram
 
 * [PixelFed](https://pixelfed.org)
-
 * [Barinsta](https://barinsta.austinhuang.me)
 * [Bibliogram](https://bibliogram.art)
 
@@ -219,7 +215,6 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [SaidIt](https://saidit.net)
 * [Aether](https://getaether.net)
 * [Phuks](https://phuks.co)
-
 * [Slide](https://github.com/ccrama/Slide)
 * [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit)
 * [RedReader](https://github.com/QuantumBadger/RedReader)
