@@ -35,7 +35,9 @@
 * [Startpage](https://www.startpage.com) – A search engine that provides Google search results with complete privacy protection.
 * [Searx](https://searx.me) – An open-source, self-hostable, metasearch engine.
 * [Mojeek](https://www.mojeek.com) – An independent search engine which does not track you.
+* [Qwant](https://www.qwant.com) – A search engine that respects your privacy.
 * [YaCy](https://yacy.net) – A free, open source and decentralized search engine.
+* [Swisscows](https://swisscows.com) – A private search engine made in Switzerland.
 
 ## Web browsers
 
