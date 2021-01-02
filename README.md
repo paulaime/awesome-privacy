@@ -28,6 +28,11 @@
   * [YouTube](#youtube)
   * [Instagram](#instagram)
   * [Reddit](#reddit)
+* [Cloud storage](#cloud-storage)
+* [Encryption](#encryption)
+* [Hosting providers](#hosting-providers)
+* [Password managers](#password-managers)
+* [Contacts and calendars](#contacts-and-calendars)
 
 ## Search engines
 
@@ -239,9 +244,65 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [SaidIt](https://saidit.net) – An open source Reddit clone.
 * [Aether](https://getaether.net) – Peer-to-peer ephemeral public communities.
 * [Phuks](https://phuks.co) – A friendly link aggregating website.
+* [Raddle](https://raddle.me) – A web-based forum where users submit links, pictures, posts, etc.
+* [Tildes](https://tildes.net) – A non-profit community site driven by its users' interests.
 
 — Clients
 
 * [Slide](https://github.com/ccrama/Slide) – An open sourced, ad free Reddit browser for iOS and Android.
 * [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit) – A beautiful, feature-rich Reddit client for Android.
 * [RedReader](https://github.com/QuantumBadger/RedReader) – An unofficial open source Reddit client for Android.
+
+## Cloud storage
+
+* [NextCloud](https://nextcloud.com) – A self-hosted productivity platform that keeps you in control.
+* [CryptPad](https://cryptpad.fr) – A zero Knowledge and collaborative cloud.
+* [Seafile](https://www.seafile.com) – An open source file sync & share solution.
+* [Tresorit](https://tresorit.com) – An end-to-end encrypted file sync and sharing solution.
+* [Syncthing](https://syncthing.net) – A continuous file synchronization program.
+* [Rclone](https://rclone.org) – A command line program to manage files on cloud storage.
+
+## Encryption
+
+* [Cryptomator](https://cryptomator.org) – A tool to encrypt your data quickly and easily.
+* [VeraCrypt](https://www.veracrypt.fr) – A free open source disk encryption software.
+* [Kryptor](https://kryptor.co.uk) – A free and open source file encryption software.
+* [7-Zip](https://7-zip.org) – A free and open-source file archiver.
+* [Hat.sh](https://hat.sh) – A free, fast, secure and serverless file encryption software.
+* [Tomb](https://www.dyne.org/software/tomb/) – A free and open source system for file encryption on GNU/Linux.
+* [LUKS](https://gitlab.com/cryptsetup/cryptsetup/) – The standard for Linux hard disk encryption.
+
+## Hosting providers
+
+* [Bahnhof](https://www.bahnhof.net) – High-performance and secure cloud solutions.
+* [Njalla](https://njal.la) – A privacy-aware domain and VPS service.
+* [Exoscale](https://www.exoscale.com) – A European cloud computing for cloud native teams.
+* [Greenhost](https://greenhost.net) – A sustainable and secure webhosting.
+* [1984 Hosting](https://1984hosting.com) – A green, ethical web hosting that protects its user's privacy.
+* [OrangeWebsite](https://www.orangewebsite.com) – An Icelandic web hosting provider.
+* [FlokiNET](https://flokinet.is) – A secure, stable and anonymous web hosting.
+* [Infomaniak](https://www.infomaniak.com) – Professional web hosting, domain name, cloud server, and email service.
+
+## Password managers
+
+* [Bitwarden](https://bitwarden.com) – A free and open source password manager for every platform.
+* [KeePassXC](https://keepassxc.org) – A cross-platform open source password manager.
+  * [KeePassDX](https://www.keepassdx.com) – Android client.
+  * [MacPass](https://macpassapp.org) – macOS client.
+  * [KeePass2Android](https://github.com/PhilippC/keepass2android) – Android client.
+  * [KeePassDroid](http://www.keepassdroid.com) – Android client.
+  * [KeeWeb](https://keeweb.info) – Desktop and online client.
+* [LessPass](https://lesspass.com) – An open source stateless password manager.
+* [Master Password](https://masterpassword.app) – An app that generates strong and unique passwords.
+* [Buttercup](https://buttercup.pw) – A secure and open source password manager.
+
+## Contacts and calendars
+
+* [EteSync](https://www.etesync.com) – End-to-end encrypted sync for your contacts, calendars, tasks and notes.
+* [fruux](https://fruux.com) – Securely share, sync and collaborate in teams.
+* [Lightning Calendar](https://www.thunderbird.net/en-US/calendar/) – A calendar fully integrated with Thunderbird.
+* [Etar Calendar](https://github.com/Etar-Group/Etar-Calendar) – An open source calendar app for Android.
+* [Simple Calendar](https://www.simplemobiletools.com/calendar/) – A flexible calendar with many event related options.
+* [Nextcloud Calendar](https://apps.nextcloud.com/apps/calendar) – A user interface for Nextcloud's CalDAV server.
+* [KOrganizer](https://apps.kde.org/en/korganizer) – The calendar and scheduling component of Kontact.
+* [KAddressBook](https://apps.kde.org/en/kaddressbook) – The contact manager component of Kontact.
