@@ -159,7 +159,6 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Void Linux](https://voidlinux.org) – A general purpose operating system, based on the monolithic Linux kernel.
 * [GhostBSD](https://www.ghostbsd.org) – A simple, elegant desktop BSD operating system.
 
-
 ### Privacy oriented OS
 
 * [Tails](https://tails.boum.org) – A Debian based live CD/USB with the goal of providing complete Internet anonymity.
@@ -271,6 +270,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Hat.sh](https://hat.sh) – A free, fast, secure and serverless file encryption software.
 * [Tomb](https://www.dyne.org/software/tomb/) – A free and open source system for file encryption on GNU/Linux.
 * [LUKS](https://gitlab.com/cryptsetup/cryptsetup/) – The standard for Linux hard disk encryption.
+* [StegCloak](https://stegcloak.surge.sh) – Hide secrets with invisible characters in plain text securely using passwords.
 
 ## Hosting providers
 
@@ -282,6 +282,24 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [OrangeWebsite](https://www.orangewebsite.com) – An Icelandic web hosting provider.
 * [FlokiNET](https://flokinet.is) – A secure, stable and anonymous web hosting.
 * [Infomaniak](https://www.infomaniak.com) – Professional web hosting, domain name, cloud server, and email service.
+
+## DNS
+
+* [DNSCrypt](https://dnscrypt.info) – Encrypts, authenticates and anonymizes communications between a DNS client and resolver.
+* [Unbound](https://nlnetlabs.nl/projects/unbound/about/) – A validating, recursive, and caching DNS resolver.
+* [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) – A flexible DNS proxy, with support for encrypted DNS protocols.
+* [Nebulo](https://git.frostnerd.com/PublicAndroidApps/smokescreen/) – An open-source Android client supporting DNS-over-HTTPS and DNS-over-TLS.
+* [DNSCloak](https://github.com/s-s/dnscloak) – A GUI and wrapper for dnscrypt-proxy 2.
+
+## Ad blockers
+
+* [uBlock Origin](https://ublockorigin.com) – A free and open source ad and content blocker.
+* [DNS66](https://github.com/julian-klode/dns66) – DNS-based host blocker for Android.
+* [Blokada](https://blokada.org) – Free and open source ad blocker for Android and iOS.
+* [AdAway](https://adaway.org) – An open source ad blocker for Android using the hosts file.
+* [AdGuard](https://adguard.com) – Cross-platform app to get rid of intrusive ads and online tracking.
+* [Pi-hole](https://pi-hole.net) – A network-wide ad blocking solution.
+* [Better Blocker](https://better.fyi) – A privacy tool for Safari on iPhone, iPad, and Mac.
 
 ## Password managers
 
@@ -306,3 +324,99 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Nextcloud Calendar](https://apps.nextcloud.com/apps/calendar) – A user interface for Nextcloud's CalDAV server.
 * [KOrganizer](https://apps.kde.org/en/korganizer) – The calendar and scheduling component of Kontact.
 * [KAddressBook](https://apps.kde.org/en/kaddressbook) – The contact manager component of Kontact.
+
+## Media streaming
+
+### Music
+
+* [Funkwhale](https://funkwhale.audio) – A project that lets you listen and share music within a decentralized, open network.
+* [Ampache](http://ampache.org) – A web based audio/video streaming application and file manager.
+* [koel](https://koel.dev) – A personal music streaming server.
+* [Navidrome](https://www.navidrome.org) – A modern music server and streamer compatible with Subsonic/Airsonic.
+* [Sonerezh](https://www.sonerezh.bzh) – A self-hosted, web-based application to stream your music everywhere.
+* [Nuclear](https://nuclear.js.org) – A modern music player focused on streaming from free sources.
+* [Audius](https://audius.co) – A a decentralized, community-owned music-sharing protocol and app.
+* [Radio4000](https://radio4000.com) – Collect, curate, play and share your own radio channel.
+
+### Video
+
+* [Kodi](https://kodi.tv) – A free and open source media player and entertainment center.
+* [Jellyfin](https://jellyfin.org) – A media solution that puts you in control of your media.
+* [Streamio](https://www.stremio.com) – A media center allowing to watch movies, series and YouTube channels.
+
+### Podcasts
+
+* [gPodder](https://gpodder.github.io) – A service and web client to manage your podcasts.
+* [AntennaPod](https://antennapod.org) – An open source podcast player for Android.
+* [podStation]() – A Chrome extension to subscribe and listen to your podcasts.
+* [Escapepod](http://y20k.org/escapepod/) – An open source podcast app for Android.
+
+## Instant messaging
+
+* [Signal](https://signal.org) – An end-to-end encrypted voice/video calls and messaging app for all platforms.
+* [Threema](https://threema.ch) – An instant messenger designed to generate as little user data as possible.
+* [Element](https://element.io) – All-in-one secure chat app for teams, friends and organisations.
+* [Briar](https://briarproject.org) – A peer-to-peer encrypted messaging app for Android.
+* [Conversations](https://conversations.im) – A Jabber/XMPP chat client, designed with ease of use and security in mind.
+* [Ricochet](https://ricochet.im) – Anonymous instant messaging for real privacy.
+* [Session](https://getsession.org) – An end-to-end encrypted messenger that minimises sensitive metadata.
+* [Tox](https://tox.chat) – Send messages, files, create groups and make Tox to Tox audio and video calls.
+* [Delta Chat](https://delta.chat) – A decentralized communication app using the existing e-mail server network.
+
+## Video/voice calling
+
+* [Jitsi Meet](https://meet.jit.si) – A secure, flexible, and completely free video conferencing software.
+* [Jami](https://jami.net) – Adistributed communication platform which respects the freedoms and privacy of users.
+* [Linphone](https://www.linphone.org) – An open source SIP client for HD voice/video calls.
+* [Mumble](https://www.mumble.info) – A free, open source, low latency, high quality voice chat application.
+* [Nextcloud Talk](https://nextcloud.com/talk/) – Screensharing, online meetings & web conferencing without data leaks.
+
+## Team communication
+
+* [Element](https://element.io) – All-in-one secure chat app for teams, friends and organisations.
+* [Rocket.chat](https://rocket.chat) – Communicate and collaborate with your team, share files, and chat in real-time.
+* [Mattermost](https://mattermost.org) – All your team communication into one place, making it searchable and accessible anywhere.
+* [Zulip](https://zulip.com) – Powerful group chat, with threaded conversations.
+* [Dino]() – A modern and open source Jabber/XMPP chat client for the desktop.
+
+## Project management
+
+* [Twake](https://twake.app) – A complete and secure collaboration platform.
+* [Wekan](https://wekan.github.io) – An open-source and collaborative kanban board application.
+* [Kanboard](https://kanboard.org) – A free and open source Kanban project management software.
+* [Taiga](https://www.taiga.io) – An agile, free and open source project management tool.
+
+## Wiki
+
+* [BookStack](https://www.bookstackapp.com) – An open source knowledge management application.
+* [DokuWiki](https://www.dokuwiki.org) – A simple to use and highly versatile open source wiki software.
+* [XWiki](https://www.xwiki.org) – An advanced open source enterprise and application wiki.
+* [Wiki.js](https://wiki.js.org) – A powerful open source wiki software built on Node.js, Git, and Markdown.
+
+## Note-taking
+
+## To-do lists
+
+## Photo management
+
+## Office
+
+## Maps and navigation
+
+## Translation
+
+## Blogging platforms
+
+## Analytics
+
+## Fonts
+
+## Android keyboards
+
+## URL shorteners
+
+## App stores
+
+## Two-factor authentication
+
+## Other
