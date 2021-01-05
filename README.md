@@ -419,6 +419,11 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 ## To-do lists
 
+* [Org mode](https://orgmode.org) – An Emacs mode for keeping notes, maintaining to-do lists, planning projects, and more.
+* [Tasks](https://tasks.org) – An open-source to-do lists & reminders app for Android.
+* [Super Productivity](https://super-productivity.com) – A flexible to-do list, time tracker and personal Jira/Github task manager.
+* [Condution](https://www.condution.com) – A personal to-do list and project management system.
+
 ## Photo management
 
 ## Office
