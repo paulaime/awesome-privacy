@@ -31,8 +31,19 @@
 * [Cloud storage](#cloud-storage)
 * [Encryption](#encryption)
 * [Hosting providers](#hosting-providers)
+* [DNS](#dns)
+* [Ad blockers](#ad-blockers)
 * [Password managers](#password-managers)
 * [Contacts and calendars](#contacts-and-calendars)
+* [Media streaming](#media-streaming)
+  * [Music](#music)
+  * [Video](#video)
+  * [Podcast](#podcast)
+* [Instant messaging](#instant-messaging)
+* [Video and voice calling](#video-and-voice-calling)
+* [Team communication](#team-communication)
+* [Project management](#project-management)
+* [Wiki](#wiki)
 
 ## Search engines
 
@@ -344,7 +355,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Jellyfin](https://jellyfin.org) – A media solution that puts you in control of your media.
 * [Streamio](https://www.stremio.com) – A media center allowing to watch movies, series and YouTube channels.
 
-### Podcasts
+### Podcast
 
 * [gPodder](https://gpodder.github.io) – A service and web client to manage your podcasts.
 * [AntennaPod](https://antennapod.org) – An open source podcast player for Android.
@@ -363,7 +374,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Tox](https://tox.chat) – Send messages, files, create groups and make Tox to Tox audio and video calls.
 * [Delta Chat](https://delta.chat) – A decentralized communication app using the existing e-mail server network.
 
-## Video/voice calling
+## Video and voice calling
 
 * [Jitsi Meet](https://meet.jit.si) – A secure, flexible, and completely free video conferencing software.
 * [Jami](https://jami.net) – Adistributed communication platform which respects the freedoms and privacy of users.
