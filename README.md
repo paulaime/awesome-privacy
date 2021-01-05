@@ -354,6 +354,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Kodi](https://kodi.tv) – A free and open source media player and entertainment center.
 * [Jellyfin](https://jellyfin.org) – A media solution that puts you in control of your media.
 * [Streamio](https://www.stremio.com) – A media center allowing to watch movies, series and YouTube channels.
+* [Owncast](https://owncast.online) – A self-hosted live video and web chat server.
 
 ### Podcast
 
