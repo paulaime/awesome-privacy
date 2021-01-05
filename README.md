@@ -425,6 +425,12 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 ## Android keyboards
 
+* [OpenBoard](https://github.com/dslul/openboard) – A 100% FOSS keyboard, based on AOSP.
+* [AnySoftKeyboard](https://anysoftkeyboard.github.io) – A free and open source keyboard that supports multiple languages.
+* [Simple Keyboard](https://github.com/rkkr/simple-keyboard) – A simple open source keyboard.
+* [Hacker's Keyboard](https://github.com/klausw/hackerskeyboard) – A keyboard with separate number keys, punctuation and arrow keys.
+* [kboard](https://github.com/adgad/kboard) - A keyboard designed for fast responses.
+
 ## URL shorteners
 
 ## App stores
