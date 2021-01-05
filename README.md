@@ -404,8 +404,18 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [DokuWiki](https://www.dokuwiki.org) – A simple to use and highly versatile open source wiki software.
 * [XWiki](https://www.xwiki.org) – An advanced open source enterprise and application wiki.
 * [Wiki.js](https://wiki.js.org) – A powerful open source wiki software built on Node.js, Git, and Markdown.
+* [Zim](https://www.zim-wiki.org) – A graphical text editor used to maintain a collection of wiki pages.
 
 ## Note-taking
+
+* [Standard Notes](https://standardnotes.org) – A simple and private note-taking app.
+* [Joplin](https://joplinapp.org) – A free and open source note-taking and to-do application.
+* [Turtl](https://turtlapp.com) – A secure collaborative notebook.
+* [Cryptee](https://crypt.ee) – A private and encrypted place for all your photos, documents, notes and more.
+* [Carnet](https://getcarnet.app) – A complete open source note taking app.
+* [QOwnNotes](https://www.qownnotes.org) – An open source markdown note taking with Nextcloud / ownCloud integration.
+* [Boost Note](https://boostnote.io) – An open source Markdown editor for developers.
+* [Paperwork](https://paperwork.cloud) – An open-source, self-hosted alternative to services like Evernote, OneNote or Google Keep.
 
 ## To-do lists
 
