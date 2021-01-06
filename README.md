@@ -293,6 +293,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [OrangeWebsite](https://www.orangewebsite.com) – An Icelandic web hosting provider.
 * [FlokiNET](https://flokinet.is) – A secure, stable and anonymous web hosting.
 * [Infomaniak](https://www.infomaniak.com) – Professional web hosting, domain name, cloud server, and email service.
+* [Namecheap](https://www.namecheap.com) – Cheap domain names and web hosting.
 
 ## DNS
 
