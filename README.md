@@ -44,6 +44,8 @@
 * [Team communication](#team-communication)
 * [Project management](#project-management)
 * [Wiki](#wiki)
+* [Note-taking](#note-taking)
+* [To-do lists](#to-do-lists)
 
 ## Search engines
 
@@ -69,6 +71,7 @@
 * [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) – An open-source web browser that has built-in ad and tracker blocking.
 * [Firefox Focus](https://support.mozilla.org/en-US/kb/focus) – A dedicated privacy browser with tracking protection and content blocking.
 * [Privacy Browser](https://www.stoutner.com/privacy-browser/) – An open source Android web browser focused on user privacy.
+* [Iceraven](https://github.com/fork-maintainers/iceraven-browser) – A web browser for Android, based on Mozilla's Fenix version of Firefox.
 
 ### For iOS
 
@@ -447,10 +450,16 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Hacker's Keyboard](https://github.com/klausw/hackerskeyboard) – A keyboard with separate number keys, punctuation and arrow keys.
 * [kboard](https://github.com/adgad/kboard) - A keyboard designed for fast responses.
 
-## URL shorteners
+## Android app stores
 
-## App stores
+* [F-Droid](https://www.f-droid.org) – An installable catalogue of free and open source applications for Android.
+* [AuroraDroid](https://gitlab.com/AuroraOSS/auroradroid) – An unofficial free and open source client for F-Droid.
+* [G-Droid](https://gitlab.com/gdroid/gdroidclient/) – A front-end client for the F-Droid app-repository.
+* [Foxy Droid](https://github.com/kitsunyan/foxy-droid) – Another unofficial F-Droid client in the style of the classic one.
+* [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) – An unofficial, FOSS client to Google's Play Store with an elegant design.
 
 ## Two-factor authentication
+
+## URL shorteners
 
 ## Other
