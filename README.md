@@ -32,6 +32,7 @@
 * [Encryption](#encryption)
 * [Hosting providers](#hosting-providers)
 * [DNS](#dns)
+* [VPN](#vpn)
 * [Ad blockers](#ad-blockers)
 * [Password managers](#password-managers)
 * [Contacts and calendars](#contacts-and-calendars)
@@ -305,6 +306,12 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) – A flexible DNS proxy, with support for encrypted DNS protocols.
 * [Nebulo](https://git.frostnerd.com/PublicAndroidApps/smokescreen/) – An open-source Android client supporting DNS-over-HTTPS and DNS-over-TLS.
 * [DNSCloak](https://github.com/s-s/dnscloak) – A GUI and wrapper for dnscrypt-proxy 2.
+
+## VPN
+
+* [ProtonVPN](https://protonvpn.com) – A high-speed Swiss VPN that safeguards your privacy.
+* [Mulvad](https://mullvad.net) – A VPN service that helps keep your online activity, identity, and location private.
+* [IVPN](https://www.ivpn.net) – An audited, open-source VPN service with WireGuard, killswitch and tracker blocker.
 
 ## Ad blockers
 
