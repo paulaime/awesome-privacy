@@ -310,7 +310,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 ## VPN
 
 * [ProtonVPN](https://protonvpn.com) – A high-speed Swiss VPN that safeguards your privacy.
-* [Mulvad](https://mullvad.net) – A VPN service that helps keep your online activity, identity, and location private.
+* [Mullvad](https://mullvad.net) – A VPN service that helps keep your online activity, identity, and location private.
 * [IVPN](https://www.ivpn.net) – An audited, open-source VPN service with WireGuard, killswitch and tracker blocker.
 
 ## Ad blockers
