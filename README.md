@@ -473,4 +473,4 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 ## Support
 
-<a href="https://www.buymeacoffee.com/paulaime" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/paulaime" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="170" height="auto" ></a>
