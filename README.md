@@ -47,6 +47,11 @@
 * [Wiki](#wiki)
 * [Note-taking](#note-taking)
 * [To-do lists](#to-do-lists)
+* [Photo](#photo)
+  * [Camera](#camera)
+  * [Photo storage](#photo-storage)
+  * [Photo editing](#photo-editing)
+  * [Metadata removal](#metadara-removal)
 
 ## Search engines
 
@@ -435,7 +440,16 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Super Productivity](https://super-productivity.com) – A flexible to-do list, time tracker and personal Jira/Github task manager.
 * [Condution](https://www.condution.com) – A personal to-do list and project management system.
 
-## Photo management
+## Photo
+
+### Camera
+### Photo storage
+### Photo editing
+### Metadata removal
+
+* [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) – An Android app to remove Exif data from pictures before sharing them.
+* [ExifCleaner](https://exifcleaner.com) – A free desktop app to clean image metadata.
+* [mat2](https://0xacab.org/jvoisin/mat2) – A metadata removal tool, supporting a wide range of commonly used file formats.
 
 ## Office
 
