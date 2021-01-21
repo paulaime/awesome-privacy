@@ -450,11 +450,36 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [FreeDCam](https://github.com/KillerInk/FreeDcam) – A substitute of the default camera with enhanced shot, exposure, image options.
 
 ### Photo storage
-### Photo editing
+
+* [Netxcloud Photos](https://github.com/nextcloud/photos) – A Photos plugin to help you organize and visualize your photos in Nextcloud.
+* [LibrePhotos](https://github.com/LibrePhotos/librephotos) – A self-hosted alternative to Google Photos based on Ownphotos.
+* [Piwigo](https://piwigo.org) – An open source photo gallery software designed for organisations, teams and individuals.
+* [PhotoPrism](https://photoprism.app) – A privately hosted app for browsing, organizing and sharing your personal photo collection.
+* [Stingle Photos](https://stingle.org) – A gallery/camera application with backup and sync functionality for your photos and videos.
+* [Cryptee](https://crypt.ee) – A private and encrypted place for all your photos, documents, notes and more.
+* [Lychee](https://lychee.electerious.com) – A self-hosted photo-management tool.
+
+### Photo management
+
+* [digiKam](https://www.digikam.org) – An open source professional photo management tool.
+* [Shotwell](https://wiki.gnome.org/Apps/Shotwell) – A personal photo manager for Linux.
+* [nomacs](https://nomacs.org) – A free, open source image viewer, which supports multiple platforms.
+* [Gwenview](https://apps.kde.org/en/gwenview) – A fast and easy to use image viewer by KDE.
+* [qView](https://interversehq.com/qview/) – A simple multiplatform image viewer.
+
+### Image editing
+
+* [GIMP](https://www.gimp.org) – A cross-platform image editor.
+* [Krita](https://krita.org) – A professional free and open source painting and image editing program.
+* [Darktable](https://www.darktable.org) – An open source photography workflow application and raw developer.
+* [RawTherapee](https://www.rawtherapee.com) – A free, cross-platform raw image processing program.
+* [Filmulator](https://filmulator.org) – A simplified raw editing software with the power of film.
+
 ### Metadata removal
 
 * [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) – An Android app to remove Exif data from pictures before sharing them.
 * [ExifCleaner](https://exifcleaner.com) – A free desktop app to clean image metadata.
+* [Imagepipe](https://codeberg.org/Starfish/Imagepipe) – An app to reduce image size and removes exif-tags when sharing images.
 * [mat2](https://0xacab.org/jvoisin/mat2) – A metadata removal tool, supporting a wide range of commonly used file formats.
 
 ## Screen recording
