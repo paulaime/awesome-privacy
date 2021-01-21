@@ -48,10 +48,11 @@
 * [Note-taking](#note-taking)
 * [To-do lists](#to-do-lists)
 * [Photo](#photo)
-  * [Camera](#camera)
+  * [Android camera](#android-camera)
   * [Photo storage](#photo-storage)
   * [Photo editing](#photo-editing)
   * [Metadata removal](#metadara-removal)
+* [Screen recording](#screen-recording)
 
 ## Search engines
 
@@ -442,7 +443,12 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 ## Photo
 
-### Camera
+### Android camera
+
+* [OpenCamera](https://opencamera.org.uk) – An open source camera app for phones and tablets.
+* [Simple Camera](https://www.simplemobiletools.com) – A camera usable for both easy photo taking and video recording.
+* [FreeDCam](https://github.com/KillerInk/FreeDcam) – A substitute of the default camera with enhanced shot, exposure, image options.
+
 ### Photo storage
 ### Photo editing
 ### Metadata removal
@@ -450,6 +456,8 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) – An Android app to remove Exif data from pictures before sharing them.
 * [ExifCleaner](https://exifcleaner.com) – A free desktop app to clean image metadata.
 * [mat2](https://0xacab.org/jvoisin/mat2) – A metadata removal tool, supporting a wide range of commonly used file formats.
+
+## Screen recording
 
 ## Office
 
