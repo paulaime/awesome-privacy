@@ -50,7 +50,8 @@
 * [Photo](#photo)
   * [Android camera](#android-camera)
   * [Photo storage](#photo-storage)
-  * [Photo editing](#photo-editing)
+  * [Photo management](#photo-management)
+  * [Image editing](#image-editing)
   * [Metadata removal](#metadara-removal)
 * [Screen recording](#screen-recording)
 
