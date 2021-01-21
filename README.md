@@ -52,7 +52,7 @@
   * [Photo storage](#photo-storage)
   * [Photo management](#photo-management)
   * [Image editing](#image-editing)
-  * [Metadata removal](#metadara-removal)
+  * [Metadata removal](#metadata-removal)
 * [Screen recording](#screen-recording)
 
 ## Search engines
