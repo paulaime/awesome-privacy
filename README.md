@@ -485,6 +485,11 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 ## Screen recording
 
+* [OBS Studio](https://obsproject.com) – A free and open source software for video recording and live streaming.
+* [SimpleScreenRecorder](https://www.maartenbaert.be/simplescreenrecorder/) – An easy to use screen recording program for Linux that supports OpenGL and X11.
+* [Kazam](https://launchpad.net/kazam) – A simple screen recording program for Linux.
+* [Kap](https://getkap.co) – An open-source screen recorder built with web technology.
+
 ## Office
 
 ## Maps and navigation
