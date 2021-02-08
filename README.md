@@ -277,7 +277,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 ## Cloud storage
 
 * [NextCloud](https://nextcloud.com) – A self-hosted productivity platform that keeps you in control.
-* [CryptPad](https://cryptpad.fr) – A zero Knowledge and collaborative cloud.
+* [CryptPad](https://cryptpad.fr) – A zero knowledge and collaborative cloud.
 * [Seafile](https://www.seafile.com) – An open source file sync & share solution.
 * [Tresorit](https://tresorit.com) – An end-to-end encrypted file sync and sharing solution.
 * [Syncthing](https://syncthing.net) – A continuous file synchronization program.
@@ -492,11 +492,33 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 ## Office
 
+* [LibreOffice](https://www.libreoffice.org) – A free and powerful office suite, and a successor to OpenOffice.
+* [ONLYOFFICE](https://www.onlyoffice.com) – A secure online office suite highly compatible with MS Office formats.
+* [Calligra Suite](https://calligra.org) – An office and graphic art suite by KDE.
+* [Collabora](https://www.collaboraoffice.com) – A cloud, mobile and desktop enterprise office suite.
+* [CryptPad](https://cryptpad.fr) – A zero knowledge and collaborative cloud.
+* [AbiWord](http://www.nl.abisource.com) – A free word processing program similar to Microsoft Word.
+
 ## Maps and navigation
+
+* [OpenStreetMaps](https://www.openstreetmap.org) – A map of the world, created by people like you and free to use under an open license.
+* [OsmAnd](https://osmand.net) – Global mobile map viewing and navigation for online and offline OSM maps.
+* [MAPS.ME](https://maps.me) – An open source cross-platform offline maps application.
+* [Magic Earth](https://www.magicearth.com) – A free maps and navigation app based on OpenStreetMap data.
 
 ## Translation
 
+* [Apertium](https://www.apertium.org) – A free/open-source machine translation platform.
+* [LibreTranslate](https://libretranslate.com) – A free and open source translation API.
+
 ## Blogging platforms
+
+* [WordPress](https://wordpress.org) –  An open source software you can use to create a beautiful website, blog, or app.
+* [Ghost](https://ghost.org) –  An open source platform for building and running a modern online publication.
+* [Grav](https://getgrav.org) – A modern open source flat-file CMS.
+* [Write.as](https://write.as) – A simple writing platform built to preserve and spread your words.
+* [Plume](https://joinplu.me) – A federated blogging application.
+* [Telescope](https://telescope.ac) – A minimal, simple, and fast publishing platform with a focus on privacy.
 
 ## Analytics
 
