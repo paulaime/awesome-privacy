@@ -685,3 +685,4 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent) – A free torrent client for Android based on libtorrent.
 
 ## Other
+* [Zero Data App](https://0data.app) – Apps that let you own 100% of your data.
