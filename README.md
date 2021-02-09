@@ -45,6 +45,11 @@
 * [Team communication](#team-communication)
 * [Project management](#project-management)
 * [Wiki](#wiki)
+* [Web development](#web-development)
+  * [Code editors](#code-editors)
+  * [FTP clients](#ftp-clients)
+  * [Version control](#version-control)
+  * [Terminal emulators](#terminal-emulators)
 * [Note-taking](#note-taking)
 * [To-do lists](#to-do-lists)
 * [Photo](#photo)
@@ -62,6 +67,9 @@
 * [Fonts](#fonts)
 * [Android keyboards](#android-keyboards)
 * [Android app stores](#android-app-stores)
+* [Two factor authentication](#two-factor-authentication)
+* [URL shorteners](#url-shorteners)
+* [Other](#other)
 
 ## Search engines
 
@@ -431,6 +439,21 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [XWiki](https://www.xwiki.org) – An advanced open source enterprise and application wiki.
 * [Wiki.js](https://wiki.js.org) – A powerful open source wiki software built on Node.js, Git, and Markdown.
 * [Zim](https://www.zim-wiki.org) – A graphical text editor used to maintain a collection of wiki pages.
+
+## Web development
+
+### Code editors
+
+* _Vim / Neovim / Emacs / Spacemacs / nano / Micro…_
+* [VSCodium](https://github.com/VSCodium/vscodium) – Free/Libre Open Source Software Binaries of VSCode.
+* [TextMate](https://macromates.com) – Powerful and customizable text editor with support for a huge list of programming languages.
+* [Atom](https://atom.io) – A hackable text editor for the 21st Century.
+* [Kate](https://kate-editor.org) – A multi-document editor part of KDE.
+* [Notepad++](https://notepad-plus-plus.org) – A free code editor and Notepad replacement that supports several languages.
+
+### FTP clients
+### Version control
+### Terminal emulators
 
 ## Note-taking
 
