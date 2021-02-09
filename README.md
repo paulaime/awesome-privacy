@@ -71,6 +71,7 @@
 * [Fonts](#fonts)
 * [Android keyboards](#android-keyboards)
 * [Android app stores](#android-app-stores)
+* [Mobile security](#mobile-security)
 * [Two factor authentication](#two-factor-authentication)
 * [URL shorteners](#url-shorteners)
 * [Other](#other)
@@ -632,6 +633,14 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [G-Droid](https://gitlab.com/gdroid/gdroidclient/) – A front-end client for the F-Droid app-repository.
 * [Foxy Droid](https://github.com/kitsunyan/foxy-droid) – Another unofficial F-Droid client in the style of the classic one.
 * [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) – An unofficial, FOSS client to Google's Play Store with an elegant design.
+
+## Mobile security
+
+* [Lockdown Privacy](https://lockdownprivacy.com) – An app to block trackers, ads, and badware — in all your apps.
+* [TrackerControl](https://trackercontrol.org) – An Android app to monitor and control trackers and ads.
+* [Jumbo](https://www.jumboprivacy.com) – A privacy app to clean your digital life.
+* [Orbot](https://guardianproject.info/apps/org.torproject.android/) – A free proxy app that empowers other apps to use the internet more securely.
+* [NetGuard](https://netguard.me) – A simple way to block access to the internet per application.
 
 ## Two-factor authentication
 
