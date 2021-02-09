@@ -34,6 +34,7 @@
 * [DNS](#dns)
 * [VPN](#vpn)
 * [Ad blockers](#ad-blockers)
+* [Firewalls](#firewalls)
 * [Password managers](#password-managers)
 * [Contacts and calendars](#contacts-and-calendars)
 * [Media streaming](#media-streaming)
@@ -74,6 +75,8 @@
 * [Mobile security](#mobile-security)
 * [Two factor authentication](#two-factor-authentication)
 * [URL shorteners](#url-shorteners)
+* [System optimizers](#system-optimizers)
+* [BitTorrent clients](#bittorrent-clients)
 * [Other](#other)
 
 ## Search engines
@@ -350,6 +353,14 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [AdGuard](https://adguard.com) – Cross-platform app to get rid of intrusive ads and online tracking.
 * [Pi-hole](https://pi-hole.net) – A network-wide ad blocking solution.
 * [Better Blocker](https://better.fyi) – A privacy tool for Safari on iPhone, iPad, and Mac.
+
+## Firewalls
+
+* [OpenSnitch](https://github.com/evilsocket/opensnitch) – A GNU/Linux port of the Little Snitch application firewall.
+* [NetGuard](https://netguard.me) – A simple way to block access to the internet per application.
+* [simplewall](https://www.henrypp.org/product/simplewall) – A simple tool to configure Windows Filtering Platform (WFP).
+* [Douane](https://douaneapp.com) – A personal firewall that protects a user's privacy.
+* [LuLu](https://objective-see.com/products/lulu.html) – A free, open-source firewall that aims to block unknown outgoing connections on your Mac.
 
 ## Password managers
 
@@ -640,7 +651,6 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [TrackerControl](https://trackercontrol.org) – An Android app to monitor and control trackers and ads.
 * [Jumbo](https://www.jumboprivacy.com) – A privacy app to clean your digital life.
 * [Orbot](https://guardianproject.info/apps/org.torproject.android/) – A free proxy app that empowers other apps to use the internet more securely.
-* [NetGuard](https://netguard.me) – A simple way to block access to the internet per application.
 
 ## Two-factor authentication
 
@@ -656,5 +666,22 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Polr](https://polrproject.org) – A quick, modern, and open-source link shortener.
 * [LSTU](https://lstu.fr) – An open source URL shortening service.
 * [YOURLS](https://yourls.org) – A small set of PHP scripts that will allow you to run your own URL shortening service.
+
+## System optimizers
+
+* [Bleachbit](https://www.bleachbit.org) – A software to clean your computer to free space and maintain privacy.
+* [Stacer](https://github.com/oguzhaninan/Stacer) – A Linux system optimizer and monitoring tool.
+* [Czkawka](https://github.com/qarmin/czkawka) – A simple, fast and easy to use app to remove unnecessary files from your computer.
+* [AppCleaner](https://freemacsoft.net/appcleaner/) – A small application which allows you to thoroughly uninstall unwanted apps.
+* [Bulk Crap Uninstaller](https://www.bcuninstaller.com) – A Windows app to remove large amounts of unwanted applications quickly.
+
+## BitTorrent clients
+
+* [Transmission](https://transmissionbt.com) – A cross-platform BitTorrent client.
+* [qBittorent](https://www.qbittorrent.org) – An open-source software alternative to µTorrent.
+* [Deluge](https://deluge-torrent.org) – A lightweight, Free Software, cross-platform BitTorrent client.
+* [rTorrent](https://rakshasa.github.io/rtorrent/) – A commend-line BitTorrent client.
+* [WebTorrent](https://webtorrent.io) – A multi-platform desktop app for streaming torrents.
+* [LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent) – A free torrent client for Android based on libtorrent.
 
 ## Other
