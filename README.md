@@ -39,6 +39,9 @@
 * [Media streaming](#media-streaming)
   * [Music](#music)
   * [Video](#video)
+* [Media players](#media-players)
+  * [Music](#music)
+  * [Video](#video)
   * [Podcast](#podcast)
 * [Instant messaging](#instant-messaging)
 * [Video and voice calling](#video-and-voice-calling)
@@ -390,6 +393,25 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Jellyfin](https://jellyfin.org) – A media solution that puts you in control of your media.
 * [Streamio](https://www.stremio.com) – A media center allowing to watch movies, series and YouTube channels.
 * [Owncast](https://owncast.online) – A self-hosted live video and web chat server.
+
+## Media players
+
+### Music
+
+* [Strawberry](https://www.strawberrymusicplayer.org) – A music player and music collection organizer.
+* [Audacious](https://audacious-media-player.org) – An open source audio player.
+* [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) – A music playing application for GNOME.
+* [DeaDBeeF](https://deadbeef.sourceforge.io) – A multi-platform and modular audio player.
+* [Vanilla Music](https://github.com/vanilla-music/vanilla) – A clean, simple and free music player for Android.
+* [Elisa](https://apps.kde.org/en/elisa) – A simple music player that should be easy to use.
+
+### Video
+
+* [VLC](https://www.videolan.org/vlc/) – A free and open source cross-platform multimedia player.
+* [MPV](https://mpv.io) – A free, open source, and cross-platform media player.
+* [IINA](https://iina.io) – A modern media player for macOS.
+* [SMPlayer](https://www.smplayer.info) – A free Media Player with built-in codecs.
+* [MPC-BE](https://sourceforge.net/projects/mpcbe/) – A free and open source audio and video player for Windows.
 
 ### Podcast
 
