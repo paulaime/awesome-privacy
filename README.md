@@ -51,6 +51,7 @@
   * [Version control](#version-control)
   * [Terminal emulators](#terminal-emulators)
 * [Note-taking](#note-taking)
+* [Markdown editors](#markdown-editors)
 * [To-do lists](#to-do-lists)
 * [Photo](#photo)
   * [Android camera](#android-camera)
@@ -444,16 +445,34 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 ### Code editors
 
-* _Vim / Neovim / Emacs / Spacemacs / nano / Micro…_
+* _[Vim](https://www.vim.org) / [Neovim](https://neovim.io) / [Emacs](https://www.gnu.org/software/emacs/) / [Spacemacs](https://www.spacemacs.org) / [nano](https://www.nano-editor.org) / [Micro](https://micro-editor.github.io)… for the CLI lovers._
 * [VSCodium](https://github.com/VSCodium/vscodium) – Free/Libre Open Source Software Binaries of VSCode.
 * [TextMate](https://macromates.com) – Powerful and customizable text editor with support for a huge list of programming languages.
 * [Atom](https://atom.io) – A hackable text editor for the 21st Century.
 * [Kate](https://kate-editor.org) – A multi-document editor part of KDE.
 * [Notepad++](https://notepad-plus-plus.org) – A free code editor and Notepad replacement that supports several languages.
+* [Geany](https://www.geany.org) – A powerful, stable and lightweight programmer's text editor.
 
 ### FTP clients
+
+* [FileZilla](https://filezilla-project.org) – A free FTP solution for both client and server.
+* [Cyberduck](https://cyberduck.io) – A libre server and cloud storage browser for Mac and Windows.
+* [WinSCP](https://winscp.net) – A popular SFTP client and FTP client for Windows.
+
 ### Version control
+
+* [Git](https://git-scm.com) – A free and open source distributed version control system.
+* [GitLab](https://about.gitlab.com) – A web-based git repository management with wiki, code reviews, issue-tracking…
+* [Gogs](https://gogs.io) – A painless self-hosted Git service written in Go.
+* [Gitea](https://gitea.io) – A community managed lightweight code hosting solution written in Go.
+
 ### Terminal emulators
+
+* [iTerm2](https://iterm2.com) – A replacement for Apple Terminal and the successor to iTerm.
+* [Hyper](https://hyper.is) – A terminal built on web technologies.
+* [Yakuake](https://apps.kde.org/en/yakuake) – A drop-down terminal emulator based on KDE Konsole technology.
+* [Alacritty](https://github.com/alacritty/alacritty) – A cross-platform, OpenGL terminal emulator.
+* [st](https://st.suckless.org) – A simple terminal implementation for X.
 
 ## Note-taking
 
@@ -465,6 +484,15 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [QOwnNotes](https://www.qownnotes.org) – An open source markdown note taking with Nextcloud / ownCloud integration.
 * [Boost Note](https://boostnote.io) – An open source Markdown editor for developers.
 * [Paperwork](https://paperwork.cloud) – An open-source, self-hosted alternative to services like Evernote, OneNote or Google Keep.
+
+## Markdown editors
+
+* [Typora](https://typora.io) – A Markdown editor and Markdown reader.
+* [Mark Text](https://marktext.app) – A Markdown editor for Mac, Windows and Linux.
+* [Zettlr](https://www.zettlr.com) – A Markdown editor for the 21st century.
+* [MacDown](https://macdown.uranusjr.com) – An open source Markdown editor for macOS.
+* [Abricotine](https://abricotine.brrd.fr) – An open-source markdown editor built for desktop.
+* [ghostwriter](https://wereturtle.github.io/ghostwriter/) – A distraction-free Markdown editor for Windows and Linux.
 
 ## To-do lists
 
