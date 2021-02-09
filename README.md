@@ -613,6 +613,17 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 ## Two-factor authentication
 
+* [FreeOTP](https://freeotp.github.io) – A two-factor authentication application for systems utilizing one-time password protocols.
+* [andOTP](https://github.com/andOTP/andOTP) – An open source two-factor authentication app for Android.
+* [Aegis](https://getaegis.app) – A secure and open source app for Android to manage your 2-step verification tokens.
+* [Tofu Authenticator](https://www.tofuauth.com) – An easy-to-use, open-source two-factor authentication app for iOS.
+* [Authenticator](https://mattrubin.me/authenticator/) – A two-factor authentication client for iOS.
+
 ## URL shorteners
+
+* [Kutt](https://kutt.it) – A free and open source URL shortener with custom domains and stats.
+* [Polr](https://polrproject.org) – A quick, modern, and open-source link shortener.
+* [LSTU](https://lstu.fr) – An open source URL shortening service.
+* [YOURLS](https://yourls.org) – A small set of PHP scripts that will allow you to run your own URL shortening service.
 
 ## Other
