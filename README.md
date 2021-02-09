@@ -54,6 +54,14 @@
   * [Image editing](#image-editing)
   * [Metadata removal](#metadata-removal)
 * [Screen recording](#screen-recording)
+* [Office](#office)
+* [Maps and navigation](#maps-and-navigation)
+* [Translation](#translation)
+* [Blogging platforms](#blogging-platforms)
+* [Website analytics](#website-analytics)
+* [Fonts](#fonts)
+* [Android keyboards](#android-keyboards)
+* [Android app stores](#android-app-stores)
 
 ## Search engines
 
@@ -520,9 +528,21 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Plume](https://joinplu.me) – A federated blogging application.
 * [Telescope](https://telescope.ac) – A minimal, simple, and fast publishing platform with a focus on privacy.
 
-## Analytics
+## Website analytics
+
+* [Matomo](https://matomo.org) – A Google Analytics alternative that protects your data and your customers' privacy.
+* [GoAccess](https://goaccess.io) – An open source real-time web log analyzer and interactive viewer.
+* [Plausible](https://plausible.io) – A lightweight and open-source website analytics tool.
+* [Shynet](https://github.com/milesmcc/shynet) – A modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
+* [Fathom](https://usefathom.com) – A simple, light-weight, privacy-first alternative to Google Analytics.
+* [Simple Analytics](https://simpleanalytics.com) – Simple, clean, and friendly analytics.
+* [umami](https://umami.is) – A simple, fast, website analytics alternative to Google Analytics.
 
 ## Fonts
+
+* [Font Squirrel](https://www.fontsquirrel.com) – Free fonts with commercial-use licenses.
+* [Open Font Library](https://fontlibrary.org) – Free fonts with freedom to use, study, share and remix them.
+* [Brick](https://brick.im) – An open-source webfont service.
 
 ## Android keyboards
 
