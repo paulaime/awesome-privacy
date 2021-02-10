@@ -458,7 +458,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Rocket.chat](https://rocket.chat) – Communicate and collaborate with your team, share files, and chat in real-time.
 * [Mattermost](https://mattermost.org) – All your team communication into one place, making it searchable and accessible anywhere.
 * [Zulip](https://zulip.com) – Powerful group chat, with threaded conversations.
-* [Dino]() – A modern and open source Jabber/XMPP chat client for the desktop.
+* [Dino](https://dino.im) – A modern and open source Jabber/XMPP chat client for the desktop.
 
 ## Project management
 
@@ -612,6 +612,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Write.as](https://write.as) – A simple writing platform built to preserve and spread your words.
 * [Plume](https://joinplu.me) – A federated blogging application.
 * [Telescope](https://telescope.ac) – A minimal, simple, and fast publishing platform with a focus on privacy.
+* [Bear](https://bearblog.dev) – A privacy-first, no-nonsense, super-fast blogging platform.
 
 ## Website analytics
 
