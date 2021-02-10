@@ -294,7 +294,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 — Clients
 
-* [Slide](https://github.com/ccrama/Slide) – An open sourced, ad free Reddit browser for iOS and Android.
+* [Slide](https://github.com/ccrama/Slide) – An open sourced, ad free Reddit browser for [iOS](https://github.com/ccrama/Slide-iOS) and Android.
 * [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit) – A beautiful, feature-rich Reddit client for Android.
 * [RedReader](https://github.com/QuantumBadger/RedReader) – An unofficial open source Reddit client for Android.
 
