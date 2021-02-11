@@ -93,7 +93,7 @@
 
 ### Cross-platform
 
-* [Firefox](https://www.mozilla.org/en-US/firefox/) – An open source web browser that respects your privacy.
+* [Firefox](https://www.mozilla.org/en-US/firefox/) – An open source web browser that respects your privacy ([see here](https://www.privacytools.io/browsers/#about_config) to harden it).
 * [Tor Browser](https://www.torproject.org) – A modified version of Firefox ESR with privacy add-ons, encryption, and an advanced proxy.
 * [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) – Chromium without its built-in Google services or background processes.
 
