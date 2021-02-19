@@ -623,6 +623,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Fathom](https://usefathom.com) – A simple, light-weight, privacy-first alternative to Google Analytics.
 * [Simple Analytics](https://simpleanalytics.com) – Simple, clean, and friendly analytics.
 * [umami](https://umami.is) – A simple, fast, website analytics alternative to Google Analytics.
+* [Offen](https://www.offen.dev) – Fair web analytics. Gain insights while your users have full access to their data.
 
 ## Fonts
 
