@@ -79,6 +79,7 @@
 * [BitTorrent clients](#bittorrent-clients)
 * [Video editors](#video-editors)
 * [Video transcoders](#video-transcoders)
+* [Graphic design](#graphic-design)
 * [Other](#other)
 
 ## Search engines
@@ -703,6 +704,15 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Handbrake](https://handbrake.fr) – A video converter from nearly any format to a selection of modern, widely supported codecs.
 * [VidCoder](https://vidcoder.net) – A Windows front-end for Handbrake.
 * [Shutter Encode](https://www.shutterencoder.com) – A converter designed by video editors.
+
+## Graphic design
+
+* [Akira](https://github.com/akiraux/Akira) – A native Linux app for UI and UX design.
+* [Alva](https://meetalva.io) – An app to create living prototypes with code components.
+* [Pencil Project](https://pencil.evolus.vn) – An open-source GUI prototyping tool.
+* [Penpot](https://penpot.app) – An open Source design and prototyping platform meant for cross-domain teams.
+* [Wireflow](https://wireflow.co) – An online and open source tool for creating beautiful user flow prototypes.
+* [mydraft.cc](https://mydraft.cc) – An open source wireframing tool.
 
 ## Other
 
