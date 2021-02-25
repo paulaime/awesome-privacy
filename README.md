@@ -81,6 +81,7 @@
 * [Video transcoders](#video-transcoders)
 * [Graphic design](#graphic-design)
 * [Document viewers](#document-viewers)
+* [Ebook readers](#ebook-reader)
 * [Other](#other)
 
 ## Search engines
@@ -731,6 +732,17 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Evince](https://wiki.gnome.org/Apps/Evince) – A document viewer for multiple document formats.
 * [Document Viewer](https://github.com/SufficientlySecure/document-viewer) – A highly customizable document viewer for Android.
 * [PDF Viewer Plus](https://github.com/JavaCafe01/PdfViewer) – A simple Pdf document viewer for Android.
+
+## Ebook readers
+
+* [Calibre](https://calibre-ebook.com) – The one stop solution to all your e-book needs.
+* [Calibre Web](https://github.com/janeczku/calibre-web) – An app for browsing eBooks stored in a Calibre database.
+* [Foliate](https://johnfactotum.github.io/foliate/) – A simple and modern eBook viewer for Linux desktops.
+* [Bookworm](https://babluboy.github.io/bookworm/) – A simple, focused eBook reader.
+* [Librera Reader](https://librera.mobi) – All-Format eBook Reader for Android.
+* [KOReader](https://koreader.rocks) – A document viewer for E Ink devices.
+* [Thorium Reader](https://www.edrlab.org/software/thorium-reader/) – An EPUB reader of choice for Windows 10, macOS and Linux.
+* [Duofolio](https://github.com/farshed/duofolio) – An ebook reader that helps you read books in other languages.
 
 ## Other
 
