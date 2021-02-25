@@ -77,6 +77,7 @@
 * [URL shorteners](#url-shorteners)
 * [System optimizers](#system-optimizers)
 * [BitTorrent clients](#bittorrent-clients)
+* [Video editors](#video-editors)
 * [Other](#other)
 
 ## Search engines
@@ -686,5 +687,14 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [WebTorrent](https://webtorrent.io) – A multi-platform desktop app for streaming torrents.
 * [LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent) – A free torrent client for Android based on libtorrent.
 
+## Video editors
+
+* [Kdenlive](https://kdenlive.org) – An open source and feature-rich video editor.
+* [OpenShot](https://www.openshot.org) – A simple and powerful video editing program.
+* [Shotcut](https://www.shotcut.org) – A free, open source, cross-platform video editor.
+* [Olive](https://www.olivevideoeditor.org) – A free non-linear video editor for Windows, macOS, and Linux.
+* [Flowblade](https://jliljebl.github.io/flowblade/) – A multitrack non-linear video editor.
+
 ## Other
+
 * [Zero Data App](https://0data.app) – Apps that let you own 100% of your data.
