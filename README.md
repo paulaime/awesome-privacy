@@ -80,6 +80,7 @@
 * [Video editors](#video-editors)
 * [Video transcoders](#video-transcoders)
 * [Graphic design](#graphic-design)
+* [Document viewers](#document-viewers)
 * [Other](#other)
 
 ## Search engines
@@ -719,6 +720,17 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [mydraft.cc](https://mydraft.cc) – An open source wireframing tool.
 * [Scribus](https://www.scribus.net) – An open source desktop publishing software.
 * [Seashore](https://github.com/robaho/seashore) – An open source image editor for macOS.
+
+## Document viewers
+
+* [Okular](https://okular.kde.org) – A universal document viewer developed by KDE.
+* [SumatraPDF](https://www.sumatrapdfreader.org) – A multi-format reader for Windows.
+* [MuPDF](https://mupdf.com) – A lightweight and customizable PDF and XPS viewer.
+* [Skim](https://skim-app.sourceforge.io) – A PDF reader and note-taker for macOS.
+* [zathura](https://pwmt.org/projects/zathura/) – A highly customizable and functional document viewer.
+* [Evince](https://wiki.gnome.org/Apps/Evince) – A document viewer for multiple document formats.
+* [Document Viewer](https://github.com/SufficientlySecure/document-viewer) – A highly customizable document viewer for Android.
+* [PDF Viewer Plus](https://github.com/JavaCafe01/PdfViewer) – A simple Pdf document viewer for Android.
 
 ## Other
 
