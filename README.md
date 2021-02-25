@@ -700,7 +700,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 * [FFmpeg](https://ffmpeg.org) – A multimedia framework able to decode, encode, transcode… and play pretty much anything.
 * [WinFF](https://www.biggmatt.com/p/winff.html), [FFQueue](https://ffqueue.bruchhaus.dk), [StaxRip](https://github.com/staxrip/staxrip), [QWinFF](https://qwinff.github.io) and many other front-ends for FFmpeg.
-* [Handbrake](https://handbrake.fr) – A tool for converting video from nearly any format to a selection of modern, widely supported codecs.
+* [Handbrake](https://handbrake.fr) – A video converter from nearly any format to a selection of modern, widely supported codecs.
 * [VidCoder](https://vidcoder.net) – A Windows front-end for Handbrake.
 * [Shutter Encode](https://www.shutterencoder.com) – A converter designed by video editors.
 
