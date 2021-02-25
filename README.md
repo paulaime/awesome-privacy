@@ -78,6 +78,7 @@
 * [System optimizers](#system-optimizers)
 * [BitTorrent clients](#bittorrent-clients)
 * [Video editors](#video-editors)
+* [Video transcoders](#video-transcoders)
 * [Other](#other)
 
 ## Search engines
@@ -694,6 +695,14 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Shotcut](https://www.shotcut.org) – A free, open source, cross-platform video editor.
 * [Olive](https://www.olivevideoeditor.org) – A free non-linear video editor for Windows, macOS, and Linux.
 * [Flowblade](https://jliljebl.github.io/flowblade/) – A multitrack non-linear video editor.
+
+## Video transcoders
+
+* [FFmpeg](https://ffmpeg.org) – A multimedia framework able to decode, encode, transcode… and play pretty much anything.
+* [WinFF](https://www.biggmatt.com/p/winff.html), [FFQueue](https://ffqueue.bruchhaus.dk), [StaxRip](https://github.com/staxrip/staxrip), [QWinFF](https://qwinff.github.io) and many other front-ends for FFmpeg.
+* [Handbrake](https://handbrake.fr) – A tool for converting video from nearly any format to a selection of modern, widely supported codecs.
+* [VidCoder](https://vidcoder.net) – A Windows front-end for Handbrake.
+* [Shutter Encode](https://www.shutterencoder.com) – A converter designed by video editors.
 
 ## Other
 
