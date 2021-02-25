@@ -707,12 +707,18 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 ## Graphic design
 
+* [Inkscape](https://inkscape.org) – A professional vector graphics editor for Linux, Windows and macOS.
+* [GIMP](https://www.gimp.org) – A cross-platform image editor.
+* [Krita](https://krita.org) – A professional free and open source painting and image editing program.
+* [MyPaint](http://mypaint.org) – A painting tool for digital artists.
 * [Akira](https://github.com/akiraux/Akira) – A native Linux app for UI and UX design.
 * [Alva](https://meetalva.io) – An app to create living prototypes with code components.
 * [Pencil Project](https://pencil.evolus.vn) – An open-source GUI prototyping tool.
 * [Penpot](https://penpot.app) – An open Source design and prototyping platform meant for cross-domain teams.
 * [Wireflow](https://wireflow.co) – An online and open source tool for creating beautiful user flow prototypes.
 * [mydraft.cc](https://mydraft.cc) – An open source wireframing tool.
+* [Scribus](https://www.scribus.net) – An open source desktop publishing software.
+* [Seashore](https://github.com/robaho/seashore) – An open source image editor for macOS.
 
 ## Other
 
