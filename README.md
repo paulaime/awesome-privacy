@@ -82,6 +82,7 @@
 * [Graphic design](#graphic-design)
 * [Document viewers](#document-viewers)
 * [Ebook readers](#ebook-reader)
+* [Screenshot utilities](#screenshot-utilities)
 * [Other](#other)
 
 ## Search engines
@@ -565,6 +566,8 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [nomacs](https://nomacs.org) – A free, open source image viewer, which supports multiple platforms.
 * [Gwenview](https://apps.kde.org/en/gwenview) – A fast and easy to use image viewer by KDE.
 * [qView](https://interversehq.com/qview/) – A simple multiplatform image viewer.
+* [Simple Gallery](https://www.simplemobiletools.com/gallery/) – A highly customizable offline gallery for Android.
+* [Photok](https://github.com/leonlatsch/Photok) – A free photo safe that stores your photos encrypted on your device.
 
 ### Image editing
 
@@ -743,6 +746,14 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [KOReader](https://koreader.rocks) – A document viewer for E Ink devices.
 * [Thorium Reader](https://www.edrlab.org/software/thorium-reader/) – An EPUB reader of choice for Windows 10, macOS and Linux.
 * [Duofolio](https://github.com/farshed/duofolio) – An ebook reader that helps you read books in other languages.
+
+## Screenshot utilities
+
+* [Flameshot](https://flameshot.org) – A powerful yet simple to use screenshot software.
+* [ShareX](https://getsharex.com) – A screen capture, file sharing and productivity tool.
+* [Greenshot](https://getgreenshot.org) – A small screenshot tool with support for OCR, Office export and annotations.
+* [Ksnip](https://github.com/ksnip/ksnip) – A Qt-based cross-platform screenshot tool.
+* [Spectacle](https://apps.kde.org/en/spectacle) – A simple application for capturing desktop screenshots.
 
 ## Other
 
