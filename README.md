@@ -83,6 +83,7 @@
 * [Document viewers](#document-viewers)
 * [Ebook readers](#ebook-reader)
 * [Screenshot utilities](#screenshot-utilities)
+* [Backup tools](#backup-tools)
 * [Other](#other)
 
 ## Search engines
@@ -754,6 +755,15 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Greenshot](https://getgreenshot.org) – A small screenshot tool with support for OCR, Office export and annotations.
 * [Ksnip](https://github.com/ksnip/ksnip) – A Qt-based cross-platform screenshot tool.
 * [Spectacle](https://apps.kde.org/en/spectacle) – A simple application for capturing desktop screenshots.
+
+## Backup tools
+
+* [Déjà Dup](https://wiki.gnome.org/Apps/DejaDup) – A personal backup tool to protect against accidental data loss.
+* [Duplicati](https://www.duplicati.com) – A free backup software to store encrypted backups online.
+* [Timeshift](https://github.com/teejee2008/timeshift) – An app that takes incremental snapshots of the file system at regular intervals.
+* [Cronopete](https://gitlab.com/rastersoft/cronopete) – A backup utility for Linux, modeled after Apple's Time Machine.
+* [BorgBackup](https://www.borgbackup.org) – A deduplicating archiver with compression and encryption.
+* [UrBackup](https://www.urbackup.org) – An open Source client/server backup system.
 
 ## Other
 
