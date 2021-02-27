@@ -84,6 +84,7 @@
 * [Ebook readers](#ebook-reader)
 * [Screenshot utilities](#screenshot-utilities)
 * [Backup tools](#backup-tools)
+* [Gaming](#gaming)
 * [Other](#other)
 
 ## Search engines
@@ -764,6 +765,18 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Cronopete](https://gitlab.com/rastersoft/cronopete) – A backup utility for Linux, modeled after Apple's Time Machine.
 * [BorgBackup](https://www.borgbackup.org) – A deduplicating archiver with compression and encryption.
 * [UrBackup](https://www.urbackup.org) – An open Source client/server backup system.
+
+## Gaming
+
+* [Lutris](https://lutris.net) – An open source gaming platform for Linux.
+* [itch.io](https://itch.io) – An online game marketplace and community.
+* [Playnite](https://playnite.link) – An open source video game library manager.
+* [GameHub](https://tkashkin.tk/projects/gamehub/) – A unified library for all your games.
+* [PlayOnLinux](https://www.playonlinux.com) – A tool to help Linux (and Mac) users run games and programs for Windows.
+* [RetroArch](https://retroarch.com) – A frontend for emulators, game engines and media players.
+* [OpenEmu](https://openemu.org) – an open source project to bring game emulation to macOS.
+* [Pegasus](https://pegasus-frontend.org) – A cross platform frontend for launching emulators and managing your game collection.
+* [Ludo](https://ludo.libretro.com) – A minimalist frontend for emulators.
 
 ## Other
 
