@@ -276,6 +276,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [NewPipe](https://newpipe.net) – A lightweight and privacy friendly YouYube app for Android.
 * [YouTube Vanced](https://vancedapp.com) – Stock Android YouTube app with many improvments.
 * [SkyTube](https://skytube-app.com) – An open-source YouTube app for Android.
+* [Piped](https://piped.kavin.rocks) – An alternative privacy-friendly YouTube frontend which is efficient by design.
 
 ### Instagram
 
