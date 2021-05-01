@@ -6,6 +6,8 @@
 
 ---
 
+## Contents
+
 * [Search engines](#search-engines)
 * [Web browsers](#web-browsers)
   * [Cross-platform](#cross-platform)
