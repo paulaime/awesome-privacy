@@ -2,6 +2,8 @@
 
 <p align="center">A curated list of tools and services that respect your privacy.</p>
 
+<p align="center"><a href="https://awesome.re" target="_blank"><img src="https://awesome.re/badge-flat.svg"></a></p>
+
 ---
 
 * [Search engines](#search-engines)
