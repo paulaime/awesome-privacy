@@ -175,9 +175,9 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 ### Aliases
 
-* [SimpleLogin](https://simplelogin.io) – A tool to easily create aliases for your email. Allows 15 aliases at one time.
+* [SimpleLogin](https://simplelogin.io) – A tool to easily create aliases for your email. Allows 15 aliases for free.
 * [AnonAddy](https://anonaddy.com) – A tool to create aliases that forward to their email address. Allows unlimited aliases.
-* [Firefox Relay](https://relay.firefox.com) – Create aliases, and randomly generated email addresses that forward to your real inbox. Allows 5 aliases at one time.
+* [Firefox Relay](https://relay.firefox.com) – Create aliases that forward to your real inbox. Allows 5 aliases.
 
 ### Temporary email
 
