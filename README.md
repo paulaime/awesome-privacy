@@ -162,7 +162,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [KMail](https://kontact.kde.org/components/kmail.html) – The email component of Kontact, the integrated personal information manager from KDE.
 * [K-9 Mail](https://k9mail.app) – A free and open source email client for Android.
 * [FairEmail](https://email.faircode.eu) – An open source and privacy oriented email app for Android.
-* [p≡p](https://www.pep.security) – Freen and open source email client for Android and iOS.
+* [p≡p](https://www.pep.security) – Free and open source email client for Android and iOS.
 * [Kube](https://kube-project.com) – A modern communication and collaboration client for Linux and macOS.
 
 ### Encryption
@@ -175,9 +175,9 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 ### Aliases
 
-* [SimpleLogin](https://simplelogin.io) – A tool to easily create aliases for your email.
-* [AnonAddy](https://anonaddy.com) – A tool to create aliases that forward to their email address.
-* [Firefox Relay](https://relay.firefox.com) – Create aliases, and randomly generated email addresses that forward to your real inbox.
+* [SimpleLogin](https://simplelogin.io) – A tool to easily create aliases for your email. Allows 15 aliases at one time.
+* [AnonAddy](https://anonaddy.com) – A tool to create aliases that forward to their email address. Allows unlimited aliases.
+* [Firefox Relay](https://relay.firefox.com) – Create aliases, and randomly generated email addresses that forward to your real inbox. Allows 5 aliases at one time.
 
 ### Temporary email
 
