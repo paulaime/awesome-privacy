@@ -360,12 +360,13 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 ## Ad blockers
 
 * [uBlock Origin](https://ublockorigin.com) – A free and open source ad and content blocker.
-* [DNS66](https://github.com/julian-klode/dns66) – DNS-based host blocker for Android.
-* [Blokada](https://blokada.org) – Free and open source ad blocker for Android and iOS.
 * [AdAway](https://adaway.org) – An open source ad blocker for Android using the hosts file.
 * [AdGuard](https://adguard.com) – Cross-platform app to get rid of intrusive ads and online tracking.
-* [Pi-hole](https://pi-hole.net) – A network-wide ad blocking solution.
+* [Blokada](https://blokada.org) – Free and open source ad blocker for Android and iOS.
 * [Better Blocker](https://better.fyi) – A privacy tool for Safari on iPhone, iPad, and Mac.
+* [DNS66](https://github.com/julian-klode/dns66) – DNS-based host blocker for Android.
+* [Pi-hole](https://pi-hole.net) – A network-wide ad blocking solution.
+* [RethinkDNS + Firewall](https://rethinkfirewall.com) – Free and open source adblocker, firewall, and anti-censorship tool for Android 6+.
 
 ## Firewalls
 
