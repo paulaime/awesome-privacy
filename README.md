@@ -366,7 +366,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Better Blocker](https://better.fyi) – A privacy tool for Safari on iPhone, iPad, and Mac.
 * [DNS66](https://github.com/julian-klode/dns66) – DNS-based host blocker for Android.
 * [Pi-hole](https://pi-hole.net) – A network-wide ad blocking solution.
-* [RethinkDNS + Firewall](https://rethinkfirewall.com) – Free and open source adblocker, firewall, and anti-censorship tool for Android 6+.
+* [RethinkDNS + Firewall](https://rethinkfirewall.com) – Free and open source adblocker and firewall for Android.
 
 ## Firewalls
 
