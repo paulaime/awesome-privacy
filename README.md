@@ -227,8 +227,8 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 ### Mobile OS
 
-* [GrapheneOS](https://grapheneos.org) – A privacy-focused mobile operating system built on top of AOSP.
-* [CalyxOS](https://calyxos.org) – A secure and private mobile OS for Pixel phones.
+* [GrapheneOS](https://grapheneos.org) – A privacy-focused mobile operating system for Pixel phones built on top of AOSP.
+* [CalyxOS](https://calyxos.org) – A secure and private mobile OS for Pixel phones and the Xiami Mi A2.
 * [LineageOS](https://www.lineageos.org) – A custom ROM based on AOSP with official support for a wide variety of devices.
 * [Ubuntu Touch](https://ubuntu-touch.io) – A free and open-source operating system for smartphones and tablets based on Ubuntu.
 * [Plasma Mobile](https://www.plasma-mobile.org) – A privacy-respecting, open source and secure phone ecosystem based on KDE Plasma.
@@ -473,6 +473,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Mattermost](https://mattermost.org) – All your team communication into one place, making it searchable and accessible anywhere.
 * [Zulip](https://zulip.com) – Powerful group chat, with threaded conversations.
 * [Dino](https://dino.im) – A modern and open source Jabber/XMPP chat client for the desktop.
+* [Big Blue Button](https://bigbluebutton.org/) - A free, open source, web conferencing system for online learning
 
 ## Project management
 
