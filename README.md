@@ -473,7 +473,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Mattermost](https://mattermost.org) – All your team communication into one place, making it searchable and accessible anywhere.
 * [Zulip](https://zulip.com) – Powerful group chat, with threaded conversations.
 * [Dino](https://dino.im) – A modern and open source Jabber/XMPP chat client for the desktop.
-* [Big Blue Button](https://bigbluebutton.org/) - A free, open source, web conferencing system for online learning
+* [Big Blue Button](https://bigbluebutton.org) - A free, open source, web conferencing system for online learning.
 
 ## Project management
 
