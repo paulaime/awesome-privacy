@@ -278,7 +278,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Invidious](https://github.com/iv-org/invidious) – A privacy-focused alternative front-end to YouTube.
 * [FreeTube](https://freetubeapp.io) – A private YouTube client for Windows, macOS, and Linux.
 * [NewPipe](https://newpipe.net) – A lightweight and privacy friendly YouYube app for Android.
-* [YouTube Vanced](https://vancedapp.com) – Stock Android YouTube app with many improvments.
+* [SongTube](https://songtube.github.io) – A beautiful ad-free YouTube client for Android.
 * [SkyTube](https://skytube-app.com) – An open-source YouTube app for Android.
 * [Piped](https://piped.kavin.rocks) – An alternative privacy-friendly YouTube frontend which is efficient by design.
 
