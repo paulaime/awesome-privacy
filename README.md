@@ -388,6 +388,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [LessPass](https://lesspass.com) – An open source stateless password manager.
 * [Master Password](https://masterpassword.app) – An app that generates strong and unique passwords.
 * [Buttercup](https://buttercup.pw) – A secure and open source password manager.
+* [Padloc](https://padloc.app) Open source, end-to-end encrypted password manager.
 
 ## Contacts and calendars
 
@@ -788,3 +789,4 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 ## Other
 
 * [Zero Data App](https://0data.app) – Apps that let you own 100% of your data.
+* [Budget Zen](https://budgetzen.net) Simple and end-to-end encrypted budget and expense management (also open source).
