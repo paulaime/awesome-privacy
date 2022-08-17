@@ -150,7 +150,6 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Posteo](https://posteo.de) – Secure and private email service based in Germany.
 * [Disroot](https://disroot.org) – An online services provider based in the Netherlands.
 * [StartMail](https://www.startmail.com) – A private email service developed by the creators of StartPage.
-* [CTemplar](https://ctemplar.com) – An anonymous and encrypted email provider based in Iceland.
 
 ### Clients
 
