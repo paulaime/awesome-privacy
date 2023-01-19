@@ -144,6 +144,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 ### Providers
 
+* [Forward Email](https://forwardemail.net) (@forwardemail) - the 100% open-source and privacy-focused email service.
 * [ProtonMail](https://protonmail.com) – Secure email service based in Switzerland.
 * [Tutanota](https://tutanota.com) – German email service with a focus on privacy and security.
 * [Mailbox.org](https://mailbox.org) – Secure email and cloud storage based in Germany.
