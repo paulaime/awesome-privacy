@@ -317,7 +317,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Seafile](https://www.seafile.com) – An open source file sync & share solution.
 * [Tresorit](https://tresorit.com) – An end-to-end encrypted file sync and sharing solution.
 * [Syncthing](https://syncthing.net) – A continuous file synchronization program.
-* [Rclone](https://rclone.org) – A command line program to manage files on cloud storage.
+* [Polybase](https://polybase.xyz) – A privacy preserving database that enables censorship resistance, end-to-end encryption, & self-sovereign data.
 
 ## Encryption
 
