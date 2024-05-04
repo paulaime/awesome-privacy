@@ -772,6 +772,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Cronopete](https://gitlab.com/rastersoft/cronopete) – A backup utility for Linux, modeled after Apple's Time Machine.
 * [BorgBackup](https://www.borgbackup.org) – A deduplicating archiver with compression and encryption.
 * [UrBackup](https://www.urbackup.org) – An open Source client/server backup system.
+* [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) – A self-hosted internet archiving solution to preserve websites offline.
 
 ## Gaming
 
