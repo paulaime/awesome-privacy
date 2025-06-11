@@ -668,7 +668,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 ## Mobile security
 
-* [Lockdown Privacy](https://lockdownprivacy.com) – An app to block trackers, ads, and badware — in all your apps.
+* ~[Lockdown Privacy](https://lockdownprivacy.com) – An app to block trackers, ads, and badware — in all your apps.~
 * [TrackerControl](https://trackercontrol.org) – An Android app to monitor and control trackers and ads.
 * [Jumbo](https://www.jumboprivacy.com) – A privacy app to clean your digital life.
 * [Orbot](https://guardianproject.info/apps/org.torproject.android/) – A free proxy app that empowers other apps to use the internet more securely.
