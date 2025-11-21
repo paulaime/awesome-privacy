@@ -343,7 +343,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [FlokiNET](https://flokinet.is) – A secure, stable and anonymous web hosting.
 * [Infomaniak](https://www.infomaniak.com) – Professional web hosting, domain name, cloud server, and email service.
 * [Namecheap](https://www.namecheap.com) – Cheap domain names and web hosting.
-
+* [DarkVPS](https://darkvps.pro) - Anonymous offshore VPS hosting with no KYC, strict no-log policy, cryptocurrency payments accepted.
 ## DNS
 
 * [DNSCrypt](https://dnscrypt.info) – Encrypts, authenticates and anonymizes communications between a DNS client and resolver.
