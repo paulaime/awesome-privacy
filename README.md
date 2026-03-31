@@ -747,6 +747,10 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Document Viewer](https://github.com/SufficientlySecure/document-viewer) – A highly customizable document viewer for Android.
 * [PDF Viewer Plus](https://github.com/JavaCafe01/PdfViewer) – A simple Pdf document viewer for Android.
 
+## Online Privacy Tools
+
+* [ConvertPrivately](https://convertprivately.com) – Privacy-first file conversion and utility tools for PDFs, images, documents, and data. Almost all of the 250+ tools run directly in the browser with no uploads or tracking (with a clear warning for the few that require server-side processing).
+
 ## Ebook readers
 
 * [Calibre](https://calibre-ebook.com) – The one stop solution to all your e-book needs.
