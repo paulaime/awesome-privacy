@@ -70,6 +70,7 @@
 * [Screen recording](#screen-recording)
 * [Office](#office)
 * [Maps and navigation](#maps-and-navigation)
+* [Health and fitness](#health-and-fitness)
 * [Translation](#translation)
 * [Blogging platforms](#blogging-platforms)
 * [Website analytics](#website-analytics)
@@ -617,6 +618,10 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [OsmAnd](https://osmand.net) – Global mobile map viewing and navigation for online and offline OSM maps.
 * [MAPS.ME](https://maps.me) – An open source cross-platform offline maps application.
 * [Magic Earth](https://www.magicearth.com) – A free maps and navigation app based on OpenStreetMap data.
+
+## Health and fitness
+
+* [Pilgrim](https://github.com/walktalkmeditate/pilgrim-ios) – A privacy-first walking and meditation companion for iOS. Fully offline with no accounts, no analytics, no cloud, and no telemetry. Features on-device voice transcription via WhisperKit. Free and open source (GPLv3). Also on the [App Store](https://apps.apple.com/app/pilgrim-mindful-walking/id6760921056).
 
 ## Translation
 
