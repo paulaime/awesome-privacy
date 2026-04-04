@@ -89,6 +89,7 @@
 * [Screenshot utilities](#screenshot-utilities)
 * [Backup tools](#backup-tools)
 * [Gaming](#gaming)
+* [AI Assistants](#ai-assistants)
 * [Other](#other)
 
 ## Search engines
@@ -788,6 +789,10 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [OpenEmu](https://openemu.org) – an open source project to bring game emulation to macOS.
 * [Pegasus](https://pegasus-frontend.org) – A cross platform frontend for launching emulators and managing your game collection.
 * [Ludo](https://ludo.libretro.com) – A minimalist frontend for emulators.
+
+## AI Assistants
+
+* [Typer](https://typer.space) – Free local AI chat for macOS (Apple Silicon). Runs entirely on-device — no account, no cloud, no ads. Works offline.
 
 ## Other
 
