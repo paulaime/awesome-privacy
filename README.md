@@ -179,6 +179,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [SimpleLogin](https://simplelogin.io) – A tool to easily create aliases for your email. Allows 15 aliases for free.
 * [AnonAddy](https://anonaddy.com) – A tool to create aliases that forward to their email address. Allows unlimited aliases.
 * [Firefox Relay](https://relay.firefox.com) – Create aliases that forward to your real inbox. Allows 5 aliases.
+* [Maskmail](https://maskmail.io) – Privacy-first email mask service. Create one mask per service, forward what matters, and disable abused masks instantly.
 
 ### Temporary email
 
