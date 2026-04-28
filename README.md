@@ -714,6 +714,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Olive](https://www.olivevideoeditor.org) – A free non-linear video editor for Windows, macOS, and Linux.
 * [Flowblade](https://jliljebl.github.io/flowblade/) – A multitrack non-linear video editor.
 
+* [Remove Audio](https://remove-audio.com) – Free browser-based tool to remove audio from video files. Local processing via WebAssembly + FFmpeg.wasm, no uploads, no server involvement. Supports MP4, MOV, MKV, AVI, WEBM.
 ## Video transcoders
 
 * [FFmpeg](https://ffmpeg.org) – A multimedia framework able to decode, encode, transcode… and play pretty much anything.
