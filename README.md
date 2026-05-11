@@ -590,6 +590,10 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [RawTherapee](https://www.rawtherapee.com) – A free, cross-platform raw image processing program.
 * [Filmulator](https://filmulator.org) – A simplified raw editing software with the power of film.
 
+### Passport photos
+
+* [IDPhotoSnap](https://idphotosnap.com) – A free, privacy-first browser-only passport photo maker. All image processing runs client-side via WebAssembly (face-api.js + BRIA RMBG-1.4). The photo never leaves the device, verifiable in DevTools Network tab. 89 countries, 226 document formats. [Open dataset](https://github.com/whitetirocket/passport-photo-specs) under MIT license.
+
 ### Metadata removal
 
 * [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) – An Android app to remove Exif data from pictures before sharing them.
