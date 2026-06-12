@@ -795,3 +795,4 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 * [Zero Data App](https://0data.app) – Apps that let you own 100% of your data.
 * [Budget Zen](https://budgetzen.net) – A simple and end-to-end encrypted budget and expense managemer (also open source).
+* [LogZero](https://logzero.app) – A private, on-device habit, mood and health tracker for iOS, with no account, no ads and no trackers.
