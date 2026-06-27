@@ -537,6 +537,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [QOwnNotes](https://www.qownnotes.org) – An open source markdown note taking with Nextcloud / ownCloud integration.
 * [Boost Note](https://boostnote.io) – An open source Markdown editor for developers.
 * [Paperwork](https://paperwork.cloud) – An open-source, self-hosted alternative to services like Evernote, OneNote or Google Keep.
+* [NoteRich](https://noterich.com) - AI-powered notes with built-in RAG search. Local storage, ephemeral AI processing. 41 languages. Free tier, PRO $39.90/year.
 
 ## Markdown editors
 
