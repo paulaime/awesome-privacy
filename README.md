@@ -141,6 +141,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Cookie Autodelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) – An extension that deletes cookies and other browsing site data as soon as the tab closes.
 * [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker/) – An extension that alters some JS APIs to prevent fingerprinting.
 * [Snowflake](https://snowflake.torproject.org) – An extension that turns your browser into a proxy that connects Tor users in censored regions to the Tor network.
+* [Spoof Me for Chrome](https://chromewebstore.google.com/detail/spoof-me/onbjkmhileedchimkcmieeiomipdljki) / [Spoof Me for Firefox](https://addons.mozilla.org/en-US/firefox/addon/spoof-me/) - Browser extension for inspecting and modifying browser fingerprint signals, including user agent, language, timezone, screen size, Canvas, WebGL, and related browser identity properties.
 
 ## Email
 
