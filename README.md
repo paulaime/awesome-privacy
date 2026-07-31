@@ -723,6 +723,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Handbrake](https://handbrake.fr) – A video converter from nearly any format to a selection of modern, widely supported codecs.
 * [VidCoder](https://vidcoder.net) – A Windows front-end for Handbrake.
 * [Shutter Encode](https://www.shutterencoder.com) – A converter designed by video editors.
+* [Video Size Reducer](https://videosizereducer.org/) – A browser-based MP4 compressor that hits a target file size; the video is processed locally and never uploaded.
 
 ## Graphic design
 
