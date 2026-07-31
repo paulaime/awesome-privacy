@@ -595,6 +595,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif) – An Android app to remove Exif data from pictures before sharing them.
 * [ExifCleaner](https://exifcleaner.com) – A free desktop app to clean image metadata.
 * [Imagepipe](https://codeberg.org/Starfish/Imagepipe) – An app to reduce image size and removes exif-tags when sharing images.
+* [MetadataRemover.ai](https://metadataremover.ai/) – A free, open-source browser tool that removes EXIF, GPS, XMP, IPTC and AI-related metadata from JPG, PNG and WebP files locally without uploads or sign-up.
 * [mat2](https://0xacab.org/jvoisin/mat2) – A metadata removal tool, supporting a wide range of commonly used file formats.
 
 ## Screen recording
