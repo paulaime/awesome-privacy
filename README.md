@@ -538,6 +538,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Boost Note](https://boostnote.io) – An open source Markdown editor for developers.
 * [Paperwork](https://paperwork.cloud) – An open-source, self-hosted alternative to services like Evernote, OneNote or Google Keep.
 * [NoteGen](https://notegen.top) – An open-source, local-first note-taking app that writes notes as Markdown files in a user-selected workspace.
+* [Glyph](https://glyphformac.com) – An offline-first Markdown notes app for macOS with local file storage, search, tasks, and optional AI tools. [Source](https://github.com/SidhuK/Glyph), AGPL-3.0; official builds are a paid one-time purchase after a 7-day trial.
 
 ## Markdown editors
 
