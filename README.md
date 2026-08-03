@@ -459,6 +459,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Conversations](https://conversations.im) – A Jabber/XMPP chat client, designed with ease of use and security in mind.
 * [Ricochet](https://ricochet.im) – Anonymous instant messaging for real privacy.
 * [Session](https://getsession.org) – An end-to-end encrypted messenger that minimises sensitive metadata.
+* [elm.chat](https://elm.chat) – An open-source, account-free messenger for short-lived rooms that encrypts messages in the browser and does not persist a server-side chat transcript ([source](https://github.com/shawnbure/elm-chat) and [security notes](https://github.com/shawnbure/elm-chat/blob/main/SECURITY.md)).
 * [Tox](https://tox.chat) – Send messages, files, create groups and make Tox to Tox audio and video calls.
 * [Delta Chat](https://delta.chat) – A decentralized communication app using the existing e-mail server network.
 
