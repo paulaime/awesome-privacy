@@ -796,3 +796,4 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 * [Zero Data App](https://0data.app) – Apps that let you own 100% of your data.
 * [Budget Zen](https://budgetzen.net) – A simple and end-to-end encrypted budget and expense managemer (also open source).
+* [Semaphore](https://semaphore.bobochang.cn) – An open-source, local-only image-to-ASCII converter that processes images entirely in the browser without uploads or analytics.
