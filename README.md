@@ -611,6 +611,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [ONLYOFFICE](https://www.onlyoffice.com) – A secure online office suite highly compatible with MS Office formats.
 * [Calligra Suite](https://calligra.org) – An office and graphic art suite by KDE.
 * [Collabora](https://www.collaboraoffice.com) – A cloud, mobile and desktop enterprise office suite.
+* [PriviTools](https://privitools.com) – Browser-based PDF, image, and document utilities that process files locally without an account or upload.
 * [CryptPad](https://cryptpad.fr) – A zero knowledge and collaborative cloud.
 * [AbiWord](http://www.nl.abisource.com) – A free word processing program similar to Microsoft Word.
 
