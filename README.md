@@ -1,4 +1,4 @@
-<p align="center"><img src="icon.svg" width="75" height="75" alt="Awesome Privacy Icon"></p>
+﻿<p align="center"><img src="icon.svg" width="75" height="75" alt="Awesome Privacy Icon"></p>
 
 <p align="center">A curated list of tools and services that respect your privacy.</p>
 
@@ -796,3 +796,5 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 * [Zero Data App](https://0data.app) – Apps that let you own 100% of your data.
 * [Budget Zen](https://budgetzen.net) – A simple and end-to-end encrypted budget and expense managemer (also open source).
+* [Korelyy](https://korelyy.com) - Privacy-first collection of 100+ free online tools (image, PDF, unit, JSON, generators). No signup, runs entirely in your browser. Six languages supported.
+
