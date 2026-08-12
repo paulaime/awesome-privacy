@@ -768,6 +768,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [ShareX](https://getsharex.com) – A screen capture, file sharing and productivity tool.
 * [Greenshot](https://getgreenshot.org) – A small screenshot tool with support for OCR, Office export and annotations.
 * [Ksnip](https://github.com/ksnip/ksnip) – A Qt-based cross-platform screenshot tool.
+* [PingYi](https://github.com/qingshihuan/pingyi) – A privacy-first screenshot OCR and translation desktop app with an offline fallback and zero history by default.
 * [Spectacle](https://apps.kde.org/en/spectacle) – A simple application for capturing desktop screenshots.
 
 ## Backup tools
