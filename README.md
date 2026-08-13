@@ -55,6 +55,7 @@
 * [Wiki](#wiki)
 * [Web development](#web-development)
   * [Code editors](#code-editors)
+  * [AI coding assistants](#ai-coding-assistants)
   * [FTP clients](#ftp-clients)
   * [Version control](#version-control)
   * [Terminal emulators](#terminal-emulators)
@@ -505,6 +506,10 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Kate](https://kate-editor.org) – A multi-document editor part of KDE.
 * [Notepad++](https://notepad-plus-plus.org) – A free code editor and Notepad replacement that supports several languages.
 * [Geany](https://www.geany.org) – A powerful, stable and lightweight programmer's text editor.
+
+### AI coding assistants
+
+* [Atomic Agent](https://atomicagent.io) – A local-first CLI and TUI coding assistant that runs open-weight models entirely on your machine, with no account or API key required. Anonymous usage analytics and crash reporting are on by default, and both can be turned off. Currently a developer preview.
 
 ### FTP clients
 
