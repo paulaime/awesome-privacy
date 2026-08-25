@@ -597,6 +597,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [ExifCleaner](https://exifcleaner.com) – A free desktop app to clean image metadata.
 * [Imagepipe](https://codeberg.org/Starfish/Imagepipe) – An app to reduce image size and removes exif-tags when sharing images.
 * [mat2](https://0xacab.org/jvoisin/mat2) – A metadata removal tool, supporting a wide range of commonly used file formats.
+* [Mask My File](https://apps.apple.com/us/app/mask-my-file/id6792850916) – An iOS app that redacts private details and strips metadata from images, PDFs, and text files on device before you share them.
 
 ## Screen recording
 
