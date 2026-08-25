@@ -590,6 +590,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Darktable](https://www.darktable.org) – An open source photography workflow application and raw developer.
 * [RawTherapee](https://www.rawtherapee.com) – A free, cross-platform raw image processing program.
 * [Filmulator](https://filmulator.org) – A simplified raw editing software with the power of film.
+* [FiloTool](https://filotool.com) – A free, no-signup toolkit for compressing, converting, cropping and editing images (plus a separate set of PDF tools) entirely in the browser; files are never uploaded to a server.
 
 ### Metadata removal
 
