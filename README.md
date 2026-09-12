@@ -185,6 +185,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 * [Maildrop](https://maildrop.cc) – Free and open source disposable e-mail addresses service.
 * [10 Minute Mail](https://10minutemail.com) – Free and anonymous temporary email.
+* [Mailfo](https://mailfo.pages.dev) – Privacy-first disposable temporary email and OTP verification inbox generator for Android and Web.
 * [erine.email](https://erine.email) – Unlimited disposable email addresses to avoid spam.
 * [Mailsac](https://mailsac.com) – Open source disposable email hosting.
 * [inboxkitten](https://inboxkitten.com) – Open source disposable email.
