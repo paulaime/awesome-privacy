@@ -141,7 +141,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Cookie Autodelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) – An extension that deletes cookies and other browsing site data as soon as the tab closes.
 * [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker/) – An extension that alters some JS APIs to prevent fingerprinting.
 * [Snowflake](https://snowflake.torproject.org) – An extension that turns your browser into a proxy that connects Tor users in censored regions to the Tor network.
-* [Not for You](https://github.com/preziotte/not-for-you) – An extension that removes the algorithm from every major social media platform. It turns off the recommendation feeds on YouTube, Instagram, TikTok, X, Reddit, LinkedIn, Threads and Facebook, so the platforms stop deciding what you see. Open source.
+* [Not for You](https://github.com/preziotte/not-for-you) – An extension that removes the algorithm from every major social media platform.
 
 ## Email
 
