@@ -548,6 +548,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [MacDown](https://macdown.uranusjr.com) – An open source Markdown editor for macOS.
 * [Abricotine](https://abricotine.brrd.fr) – An open-source markdown editor built for desktop.
 * [ghostwriter](https://wereturtle.github.io/ghostwriter/) – A distraction-free Markdown editor for Windows and Linux.
+* [Markdown Tools](https://markdowntools.io/) – A browser-based Markdown editor and converter suite (PDF, HTML, Word, tables) that runs locally with no signup.
 
 ## To-do lists
 
