@@ -797,3 +797,4 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 * [Zero Data App](https://0data.app) – Apps that let you own 100% of your data.
 * [Budget Zen](https://budgetzen.net) – A simple and end-to-end encrypted budget and expense managemer (also open source).
+* [XChat Directory](https://xchat.directory) – Independent comparisons and reviews of encrypted messengers (Signal, Threema, Session, Wire and more).
