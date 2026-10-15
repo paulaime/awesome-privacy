@@ -377,6 +377,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 * [OpenSnitch](https://github.com/evilsocket/opensnitch) – A GNU/Linux port of the Little Snitch application firewall.
 * [NetGuard](https://netguard.me) – A simple way to block access to the internet per application.
+* [Data Saver](https://anubisproductions.github.io/data-saver-usage-blocker/) – Per-app mobile data usage for Android with a foreground/background split, and blocking per network. Ships with no INTERNET permission.
 * [simplewall](https://www.henrypp.org/product/simplewall) – A simple tool to configure Windows Filtering Platform (WFP).
 * [Douane](https://douaneapp.com) – A personal firewall that protects a user's privacy.
 * [LuLu](https://objective-see.com/products/lulu.html) – A free, open-source firewall that aims to block unknown outgoing connections on your Mac.
