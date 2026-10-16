@@ -190,6 +190,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [erine.email](https://erine.email) – Unlimited disposable email addresses to avoid spam.
 * [Mailsac](https://mailsac.com) – Open source disposable email hosting.
 * [inboxkitten](https://inboxkitten.com) – Open source disposable email.
+* [TempMail10min](https://temp-mail10min.online) - Free and anonymous temporary email service with 5, 10, 15, and 30-minute auto-destruct inboxes.
 
 ### Self-hosting
 
