@@ -540,6 +540,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Boost Note](https://boostnote.io) – An open source Markdown editor for developers.
 * [Paperwork](https://paperwork.cloud) – An open-source, self-hosted alternative to services like Evernote, OneNote or Google Keep.
 * [NoteGen](https://notegen.top) – An open-source, local-first note-taking app that writes notes as Markdown files in a user-selected workspace.
+* [Koru](https://www.koru.do) – A free, open-source, local-first workspace for notes, docs and files that keeps notes in a local database on your device, with no account required.
 
 ## Markdown editors
 
