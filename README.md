@@ -405,6 +405,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Nextcloud Calendar](https://apps.nextcloud.com/apps/calendar) – A user interface for Nextcloud's CalDAV server.
 * [KOrganizer](https://apps.kde.org/en/korganizer) – The calendar and scheduling component of Kontact.
 * [KAddressBook](https://apps.kde.org/en/kaddressbook) – The contact manager component of Kontact.
+* [CalCafe](https://getapps.cafe/app/calcafe) – Offline desktop calendar for macOS and Windows that keeps all events on your own computer, with no cloud sync. Closed source, paid.
 
 ## Media streaming
 
