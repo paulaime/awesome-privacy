@@ -110,6 +110,7 @@
 * [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) – Chromium without its built-in Google services or background processes.
 * [Mullvad Browser](https://mullvad.net/en/browser) – A web browser designed to minimize tracking and fingerprints.
 * [LibreWolf](https://librewolf.net) – A privacy-focused and user-friendly browser based on Firefox.
+* [Stedding](https://stedding.dev) – An open-source Chromium browser with an Arc-style sidebar, no telemetry, no account, and third-party cookies blocked by default (macOS and Windows).
 
 ### For Android
 
