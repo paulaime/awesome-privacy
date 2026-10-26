@@ -398,6 +398,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 ## Contacts and calendars
 
 * [EteSync](https://www.etesync.com) – End-to-end encrypted sync for your contacts, calendars, tasks and notes.
+* [SilentSuite](https://silentsuite.io) – Open-source, end-to-end encrypted sync for calendars, contacts and tasks, with free self-hosting and optional managed hosting.
 * [fruux](https://fruux.com) – Securely share, sync and collaborate in teams.
 * [Lightning Calendar](https://www.thunderbird.net/en-US/calendar/) – A calendar fully integrated with Thunderbird.
 * [Etar Calendar](https://github.com/Etar-Group/Etar-Calendar) – An open source calendar app for Android.
