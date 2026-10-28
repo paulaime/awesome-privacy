@@ -463,6 +463,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Session](https://getsession.org) – An end-to-end encrypted messenger that minimises sensitive metadata.
 * [Tox](https://tox.chat) – Send messages, files, create groups and make Tox to Tox audio and video calls.
 * [Delta Chat](https://delta.chat) – A decentralized communication app using the existing e-mail server network.
+* [Iris Chat](https://irischat.org/) – An open-source Nostr messenger with end-to-end encryption, native apps, and a CLI; no phone number or email registration.
 
 ## Video and voice calling
 
