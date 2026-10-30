@@ -175,6 +175,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [GPG4Win](https://www.gpg4win.org) – An open source GnuPG front-end for Windows.
 * [Enigmail](https://www.enigmail.net) – Encrypt/decrypt and digitally sign your emails in Thunderbird, Postbox and Interlink.
 * [Mailvelope](https://www.mailvelope.com) – A browser extension to securely encrypt your emails with PGP using webmail providers.
+* [PGP Tools](https://github.com/Am-I-Being-Pwned/PGP-Tools) – A browser extension to encrypt, decrypt, sign and verify PGP messages.
 
 ### Aliases
 
