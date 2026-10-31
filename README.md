@@ -590,6 +590,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [GIMP](https://www.gimp.org) – A cross-platform image editor.
 * [Krita](https://krita.org) – A professional free and open source painting and image editing program.
 * [Darktable](https://www.darktable.org) – An open source photography workflow application and raw developer.
+* [Pic2Vector](https://pic2vector.com) – Free in-browser PNG/JPG/WebP to SVG converter. Tracing runs locally in WebAssembly; images are never uploaded.
 * [RawTherapee](https://www.rawtherapee.com) – A free, cross-platform raw image processing program.
 * [Filmulator](https://filmulator.org) – A simplified raw editing software with the power of film.
 
