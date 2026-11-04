@@ -744,6 +744,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 ## Document viewers
 
+* [OpenP7M](https://openp7m.com/en/) – A browser-based reader for embedded PDFs in P7M files and supported Italian FatturaPA XML. Document contents are processed locally; previews are free with a watermark, while single-file exports cost €1.99. It does not verify certificate trust or legal signature validity.
 * [Okular](https://okular.kde.org) – A universal document viewer developed by KDE.
 * [SumatraPDF](https://www.sumatrapdfreader.org) – A multi-format reader for Windows.
 * [MuPDF](https://mupdf.com) – A lightweight and customizable PDF and XPS viewer.
