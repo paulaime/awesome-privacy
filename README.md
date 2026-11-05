@@ -642,6 +642,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 * [Matomo](https://matomo.org) – A Google Analytics alternative that protects your data and your customers' privacy.
 * [GoAccess](https://goaccess.io) – An open source real-time web log analyzer and interactive viewer.
+* [Skald](https://skaldanalytics.com/) – Web analytics from your server's access log; separates people from AI assistants and crawlers, with no cookies. Source-available (Elastic License 2.0), free to self-host.
 * [Plausible](https://plausible.io) – A lightweight and open-source website analytics tool.
 * [Shynet](https://github.com/milesmcc/shynet) – A modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
 * [Fathom](https://usefathom.com) – A simple, light-weight, privacy-first alternative to Google Analytics.
