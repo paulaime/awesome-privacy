@@ -752,6 +752,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Evince](https://wiki.gnome.org/Apps/Evince) – A document viewer for multiple document formats.
 * [Document Viewer](https://github.com/SufficientlySecure/document-viewer) – A highly customizable document viewer for Android.
 * [PDF Viewer Plus](https://github.com/JavaCafe01/PdfViewer) – A simple Pdf document viewer for Android.
+* [Paperwing](https://paperwingapp.com) – An open-source, offline PDF editor for Windows and macOS with no account or telemetry.
 
 ## Ebook readers
 
