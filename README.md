@@ -649,6 +649,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [umami](https://umami.is) – A simple, fast, website analytics alternative to Google Analytics.
 * [Offen](https://www.offen.dev) – Fair web analytics. Gain insights while your users have full access to their data.
 * [Fairlytics](https://fairlytics.dev) – Privacy-first web analytics in 510 bytes. No cookies, no IP storage, GDPR compliant by design.
+* [Lomen Analytics](https://lomenanalytics.com) – Cookie-free website analytics that never stores IP addresses, free during its public beta.
 
 ## Fonts
 
