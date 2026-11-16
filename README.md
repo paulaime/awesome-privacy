@@ -701,6 +701,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Czkawka](https://github.com/qarmin/czkawka) – A simple, fast and easy to use app to remove unnecessary files from your computer.
 * [AppCleaner](https://freemacsoft.net/appcleaner/) – A small application which allows you to thoroughly uninstall unwanted apps.
 * [Bulk Crap Uninstaller](https://www.bcuninstaller.com) – A Windows app to remove large amounts of unwanted applications quickly.
+* [MacOSCleaner](https://github.com/AlexTkDev/MacOSCleaner) – A free, source-available Mac cleaner and uninstaller with no telemetry and no account, plus a privacy inspector for app permissions and browser extensions.
 
 ## BitTorrent clients
 
