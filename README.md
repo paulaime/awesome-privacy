@@ -142,6 +142,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker/) – An extension that alters some JS APIs to prevent fingerprinting.
 * [Snowflake](https://snowflake.torproject.org) – An extension that turns your browser into a proxy that connects Tor users in censored regions to the Tor network.
 * [Not for You](https://github.com/preziotte/not-for-you) – An extension that removes the algorithm from every major social media platform.
+* [ShrinkWatch EU](https://github.com/emirmrkaljevic/shrinkwatch-eu) – An extension that shows the price per kg or litre on grocery shops, warns about shrinkflation, and keeps all data on your device.
 
 ## Email
 
