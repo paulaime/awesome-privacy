@@ -159,6 +159,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 * [Thunderbird](https://www.thunderbird.net) – Cross-platform, free and open source email application made by Mozilla.
 * [Canary Mail](https://canarymail.io) – A secure email client for macOS, iOS and Android (paid and closed source).
+* [Suzume Mail](https://www.yuzool.com/apps/suzume/) – An IMAP email client for macOS and iOS that keeps mail on the device, with no developer servers in between (paid and closed source).
 * [Geary](https://wiki.gnome.org/Apps/Geary) – An email application built around conversations, for Linux.
 * [Evolution](https://wiki.gnome.org/Apps/Evolution) – A Linux application that provides mail, calendar and address book.
 * [Claws Mail](https://www.claws-mail.org) – An open source email client (and news reader) for Windows and Linux.
