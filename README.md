@@ -615,6 +615,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Collabora](https://www.collaboraoffice.com) – A cloud, mobile and desktop enterprise office suite.
 * [CryptPad](https://cryptpad.fr) – A zero knowledge and collaborative cloud.
 * [AbiWord](http://www.nl.abisource.com) – A free word processing program similar to Microsoft Word.
+* [Madosuite](https://madosuite.com) – Free PDF, Office, image and video tools that run in the browser, so files are never uploaded; no sign-up.
 
 ## Maps and navigation
 
