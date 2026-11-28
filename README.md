@@ -154,6 +154,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Disroot](https://disroot.org) – An online services provider based in the Netherlands.
 * [StartMail](https://www.startmail.com) – A private email service developed by the creators of StartPage.
 * [Aster Mail](https://astermail.org) – Private, end-to-end encrypted email with post-quantum protection, PGP, aliases, and custom domains.
+* [NIX.TO](https://nix.to/) - Independent, privacy-oriented free email service with no real name required for registration.
 
 ### Clients
 
